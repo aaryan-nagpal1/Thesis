@@ -1,0 +1,2510 @@
+PID,Stage,Start,End,Rating
+2,Pre-intervention,52:13:00,53:13:00,Slightly drowsy
+2,Pre-intervention,53:13:00,54:13:00,Slightly drowsy
+2,Pre-intervention,54:13:00,55:13:00,Slightly drowsy
+2,Pre-intervention,55:13:00,56:13:00,Slightly drowsy
+2,Pre-intervention,56:13:00,57:13:00,Slightly drowsy
+2,Pre-intervention,57:13:00,58:13:00,Slightly drowsy
+2,Pre-intervention,58:13:00,59:13:00,Slightly drowsy
+2,Pre-intervention,59:13:00,60:13:00,Moderately drowsy
+2,Pre-intervention,60:13:00,61:13:00,Moderately drowsy
+2,Pre-intervention,61:13:00,62:13:00,Moderately drowsy
+2,Intervention (Automation),62:13:00,63:13:00,Not drowsy
+2,Intervention (Automation),63:13:00,64:13:00,Not drowsy
+2,Intervention (Automation),64:13:00,65:13:00,Moderately drowsy
+2,Intervention (Automation),65:13:00,66:13:00,Slightly drowsy
+2,Intervention (Automation),66:13:00,67:13:00,Moderately drowsy
+2,Intervention (Automation),67:13:00,68:13:00,Slightly drowsy
+2,Intervention (Automation),68:13:00,69:13:00,Slightly drowsy
+2,Intervention (Automation),69:13:00,70:13:00,Moderately drowsy
+2,Intervention (Automation),70:13:00,71:13:00,Slightly drowsy
+2,Intervention (Automation),71:13:00,72:13:00,Slightly drowsy
+2,Post-intervention,72:13:00,73:13:00,Not drowsy
+2,Post-intervention,73:13:00,74:13:00,Not drowsy
+2,Post-intervention,74:13:00,75:13:00,Slightly drowsy
+2,Post-intervention,75:13:00,76:13:00,Slightly drowsy
+2,Post-intervention,76:13:00,77:13:00,Slightly drowsy
+2,Post-intervention,77:13:00,78:13:00,Slightly drowsy
+2,Post-intervention,78:13:00,79:13:00,Slightly drowsy
+2,Post-intervention,79:13:00,80:13:00,Slightly drowsy
+2,Post-intervention,80:13:00,81:13:00,Slightly drowsy
+2,Post-intervention,81:13:00,82:13:00,Slightly drowsy
+2,Post-intervention,82:13:00,83:13:00,Moderately drowsy
+2,Post-intervention,83:13:00,84:13:00,Slightly drowsy
+3,Pre-intervention,30:36:00,31:36:00,Moderately drowsy
+3,Pre-intervention,31:36:00,32:36:00,Moderately drowsy
+3,Pre-intervention,32:36:00,33:36:00,Moderately drowsy
+3,Pre-intervention,33:36:00,34:36:00,Moderately drowsy
+3,Pre-intervention,34:36:00,35:36:00,Very drowsy
+3,Pre-intervention,35:36:00,36:36:00,Slightly drowsy
+3,Pre-intervention,36:36:00,37:36:00,Moderately drowsy
+3,Pre-intervention,37:36:00,38:36:00,Very drowsy
+3,Pre-intervention,38:36:00,39:36:00,Very drowsy
+3,Pre-intervention,39:36:00,40:36:00,Very drowsy
+3,Intervention (Automation),40:36:00,41:36:00,Slightly drowsy
+3,Intervention (Automation),41:36:00,42:36:00,Slightly drowsy
+3,Intervention (Automation),42:36:00,43:36:00,Moderately drowsy
+3,Intervention (Automation),43:36:00,44:36:00,Slightly drowsy
+3,Intervention (Automation),44:36:00,45:36:00,Slightly drowsy
+3,Intervention (Automation),45:36:00,46:36:00,Slightly drowsy
+3,Intervention (Automation),46:36:00,47:36:00,Moderately drowsy
+3,Intervention (Automation),47:36:00,48:36:00,Very drowsy
+3,Intervention (Automation),48:36:00,49:36:00,Slightly drowsy
+3,Intervention (Automation),49:36:00,50:36:00,Moderately drowsy
+3,Intervention (Automation),50:36:00,51:36:00,Very drowsy
+3,Post-intervention,51:36:00,52:36:00,Not drowsy
+3,Post-intervention,52:36:00,53:36:00,Slightly drowsy
+3,Post-intervention,53:36:00,54:36:00,Slightly drowsy
+3,Post-intervention,54:36:00,55:36:00,Moderately drowsy
+3,Post-intervention,55:36:00,56:36:00,Moderately drowsy
+3,Post-intervention,56:36:00,57:36:00,Moderately drowsy
+3,Post-intervention,57:36:00,58:36:00,Moderately drowsy
+3,Post-intervention,58:36:00,59:36:00,Moderately drowsy
+3,Post-intervention,59:36:00,60:36:00,Moderately drowsy
+3,Post-intervention,60:36:00,61:36:00,Moderately drowsy
+3,Post-intervention,61:36:00,62:36:00,Moderately drowsy
+4,Pre-intervention,59:25:00,60:25:00,Not drowsy
+4,Pre-intervention,60:25:00,61:25:00,Not drowsy
+4,Pre-intervention,61:25:00,62:25:00,Not drowsy
+4,Pre-intervention,62:25:00,63:25:00,Not drowsy
+4,Pre-intervention,63:25:00,64:25:00,Not drowsy
+4,Pre-intervention,64:25:00,65:25:00,Not drowsy
+4,Pre-intervention,65:25:00,66:25:00,Not drowsy
+4,Pre-intervention,66:25:00,67:25:00,Not drowsy
+4,Pre-intervention,67:25:00,68:25:00,Not drowsy
+4,Pre-intervention,68:25:00,69:25:00,Slightly drowsy
+4,Intervention (Automation),69:25:00,70:25:00,Not drowsy
+4,Intervention (Automation),70:25:00,71:25:00,Not drowsy
+4,Intervention (Automation),71:25:00,72:25:00,Not drowsy
+4,Intervention (Automation),72:25:00,73:25:00,Not drowsy
+4,Intervention (Automation),73:25:00,74:25:00,Slightly drowsy
+4,Intervention (Automation),74:25:00,75:25:00,Not drowsy
+4,Intervention (Automation),75:25:00,76:25:00,Slightly drowsy
+4,Intervention (Automation),76:25:00,77:25:00,Not drowsy
+4,Intervention (Automation),77:25:00,78:25:00,Not drowsy
+4,Intervention (Automation),78:25:00,79:25:00,Slightly drowsy
+4,Post-intervention,79:25:00,80:25:00,Not drowsy
+4,Post-intervention,80:25:00,81:25:00,Not drowsy
+4,Post-intervention,81:25:00,82:25:00,Not drowsy
+4,Post-intervention,82:25:00,83:25:00,Not drowsy
+4,Post-intervention,83:25:00,84:25:00,Not drowsy
+4,Post-intervention,84:25:00,85:25:00,Not drowsy
+4,Post-intervention,85:25:00,86:25:00,Not drowsy
+4,Post-intervention,86:25:00,87:25:00,Not drowsy
+4,Post-intervention,87:25:00,88:25:00,Not drowsy
+4,Post-intervention,88:25:00,89:25:00,Not drowsy
+4,Post-intervention,89:25:00,90:25:00,Not drowsy
+4,Post-intervention,90:25:00,91:25:00,Not drowsy
+5,Pre-intervention,58:51:00,59:51:00,Slightly drowsy
+5,Pre-intervention,59:51:00,60:51:00,Slightly drowsy
+5,Pre-intervention,60:51:00,61:51:00,Slightly drowsy
+5,Pre-intervention,61:51:00,62:51:00,Slightly drowsy
+5,Pre-intervention,62:51:00,63:51:00,Slightly drowsy
+5,Pre-intervention,63:51:00,64:51:00,Slightly drowsy
+5,Pre-intervention,64:51:00,65:51:00,Slightly drowsy
+5,Pre-intervention,65:51:00,66:51:00,Slightly drowsy
+5,Pre-intervention,66:51:00,67:51:00,Slightly drowsy
+5,Pre-intervention,67:51:00,68:51:00,Slightly drowsy
+5,Intervention (Automation),68:51:00,69:51:00,Not drowsy
+5,Intervention (Automation),69:51:00,70:51:00,Slightly drowsy
+5,Intervention (Automation),70:51:00,71:51:00,Slightly drowsy
+5,Intervention (Automation),71:51:00,72:51:00,Slightly drowsy
+5,Intervention (Automation),72:51:00,73:51:00,Slightly drowsy
+5,Intervention (Automation),73:51:00,74:51:00,Moderately drowsy
+5,Intervention (Automation),74:51:00,75:51:00,Moderately drowsy
+5,Intervention (Automation),75:51:00,76:51:00,Slightly drowsy
+5,Intervention (Automation),76:51:00,77:51:00,Moderately drowsy
+5,Intervention (Automation),77:51:00,78:51:00,Moderately drowsy
+5,Intervention (Automation),78:51:00,79:51:00,Very drowsy
+5,Post-intervention,79:51:00,80:51:00,Not drowsy
+5,Post-intervention,80:51:00,81:51:00,Slightly drowsy
+5,Post-intervention,81:51:00,82:51:00,Slightly drowsy
+5,Post-intervention,82:51:00,83:51:00,Slightly drowsy
+5,Post-intervention,83:51:00,84:51:00,Slightly drowsy
+5,Post-intervention,84:51:00,85:51:00,Slightly drowsy
+5,Post-intervention,85:51:00,86:51:00,Slightly drowsy
+5,Post-intervention,86:51:00,87:51:00,Slightly drowsy
+5,Post-intervention,87:51:00,88:51:00,Not drowsy
+5,Post-intervention,88:51:00,89:51:00,Not drowsy
+5,Post-intervention,89:51:00,90:51:00,Not drowsy
+6,Pre-intervention,60:12:00,61:12:00,Slightly drowsy
+6,Pre-intervention,61:12:00,62:12:00,Slightly drowsy
+6,Pre-intervention,62:12:00,63:12:00,Moderately drowsy
+6,Pre-intervention,63:12:00,64:12:00,Slightly drowsy
+6,Pre-intervention,64:12:00,65:12:00,Slightly drowsy
+6,Pre-intervention,65:12:00,66:12:00,Slightly drowsy
+6,Pre-intervention,66:12:00,67:12:00,Slightly drowsy
+6,Pre-intervention,67:12:00,68:12:00,Slightly drowsy
+6,Pre-intervention,68:12:00,69:12:00,Slightly drowsy
+6,Pre-intervention,69:12:00,70:12:00,Slightly drowsy
+6,Intervention (1 back test),70:12:00,71:12:00,Not drowsy
+6,Intervention (1 back test),71:12:00,72:12:00,Not drowsy
+6,Intervention (1 back test),72:12:00,73:12:00,Not drowsy
+6,Intervention (1 back test),73:12:00,74:12:00,Not drowsy
+6,Intervention (1 back test),74:12:00,75:12:00,Not drowsy
+6,Intervention (1 back test),75:12:00,76:12:00,Slightly drowsy
+6,Post-intervention,76:12:00,77:12:00,Slightly drowsy
+6,Intervention (2 back test),77:12:00,78:12:00,Not drowsy
+6,Intervention (2 back test),78:12:00,79:12:00,Not drowsy
+6,Intervention (2 back test),79:12:00,80:12:00,Not drowsy
+6,Post-intervention,80:12:00,81:12:00,Not drowsy
+6,Post-intervention,81:12:00,82:12:00,Slightly drowsy
+6,Post-intervention,82:12:00,83:12:00,Slightly drowsy
+6,Post-intervention,83:12:00,84:12:00,Slightly drowsy
+6,Post-intervention,84:12:00,85:12:00,Slightly drowsy
+6,Post-intervention,85:12:00,86:12:00,Slightly drowsy
+6,Post-intervention,86:12:00,87:12:00,Slightly drowsy
+6,Post-intervention,87:12:00,88:12:00,Slightly drowsy
+6,Post-intervention,88:12:00,89:12:00,Slightly drowsy
+6,Post-intervention,89:12:00,90:12:00,Slightly drowsy
+6,Post-intervention,90:12:00,91:12:00,Slightly drowsy
+7,Pre-intervention,60:02:00,61:02:00,Not drowsy
+7,Pre-intervention,61:02:00,62:02:00,Slightly drowsy
+7,Pre-intervention,62:02:00,63:02:00,Slightly drowsy
+7,Pre-intervention,63:02:00,64:02:00,Not drowsy
+7,Pre-intervention,64:02:00,65:02:00,Slightly drowsy
+7,Pre-intervention,65:02:00,66:02:00,Not drowsy
+7,Pre-intervention,66:02:00,67:02:00,Slightly drowsy
+7,Pre-intervention,67:02:00,68:02:00,Not drowsy
+7,Pre-intervention,68:02:00,69:02:00,Slightly drowsy
+7,Pre-intervention,69:02:00,70:02:00,Not drowsy
+7,Intervention (2 back test),70:02:00,71:02:00,Not drowsy
+7,Intervention (2 back test),71:02:00,72:02:00,Not drowsy
+7,Intervention (2 back test),72:02:00,73:02:00,Not drowsy
+7,Intervention (2 back test),73:02:00,74:02:00,Not drowsy
+7,Intervention (2 back test),74:02:00,75:02:00,Not drowsy
+7,Post-intervention,75:02:00,76:02:00,Not drowsy
+7,Intervention (1 back test),76:02:00,77:02:00,Not drowsy
+7,Intervention (1 back test),77:02:00,78:02:00,Not drowsy
+7,Intervention (1 back test),78:02:00,79:02:00,Not drowsy
+7,Intervention (1 back test),79:02:00,80:02:00,Not drowsy
+7,Post-intervention,80:02:00,81:02:00,Slightly drowsy
+7,Post-intervention,81:02:00,82:02:00,Not drowsy
+7,Post-intervention,82:02:00,83:02:00,Not drowsy
+7,Post-intervention,83:02:00,84:02:00,Not drowsy
+7,Post-intervention,84:02:00,85:02:00,Not drowsy
+7,Post-intervention,85:02:00,86:02:00,Not drowsy
+7,Post-intervention,86:02:00,87:02:00,Not drowsy
+7,Post-intervention,87:02:00,88:02:00,Not drowsy
+7,Post-intervention,88:02:00,89:02:00,Slightly drowsy
+7,Post-intervention,89:02:00,90:02:00,Slightly drowsy
+7,Post-intervention,90:02:00,91:02:00,Not drowsy
+9,,00:02:38,00:03:38,Not drowsy
+9,,00:03:38,00:04:38,Not drowsy
+9,,00:04:38,00:05:38,Not drowsy
+9,,00:05:38,00:06:38,Not drowsy
+9,,00:06:38,00:07:38,Not drowsy
+9,,00:07:38,00:08:38,Not drowsy
+9,,00:08:38,00:09:38,Not drowsy
+9,,00:09:38,00:10:38,Not drowsy
+9,,00:10:38,00:11:38,Not drowsy
+9,,00:11:38,00:12:38,Not drowsy
+9,,00:12:38,00:13:38,Not drowsy
+9,,00:13:38,00:14:38,Not drowsy
+9,,00:14:38,00:15:38,Not drowsy
+9,,00:15:38,00:16:38,Not drowsy
+9,,00:16:38,00:17:38,Not drowsy
+9,,00:17:38,00:18:38,Not drowsy
+9,,00:18:38,00:19:38,Not drowsy
+9,,00:19:38,00:20:38,Not drowsy
+9,,00:20:38,00:21:38,Not drowsy
+9,,00:21:38,00:22:38,Not drowsy
+9,,00:22:38,00:23:38,Not drowsy
+9,,00:23:38,00:24:38,Not drowsy
+9,,00:24:38,00:25:38,Not drowsy
+9,,00:25:38,00:26:38,Slightly drowsy
+9,,00:26:38,00:27:38,Slightly drowsy
+9,,00:27:38,00:28:38,Slightly drowsy
+9,,00:28:38,00:29:38,Slightly drowsy
+9,,00:29:38,00:30:38,Slightly drowsy
+9,,00:30:38,00:31:38,Slightly drowsy
+9,,00:31:38,00:32:38,Slightly drowsy
+9,,00:32:38,00:33:38,Slightly drowsy
+9,,00:33:38,00:34:38,Slightly drowsy
+9,,00:34:38,00:35:38,Moderately drowsy
+9,Pre-intervention,35:38:00,36:38:00,Very drowsy
+9,Pre-intervention,36:38:00,37:38:00,Moderately Drowsy
+9,Pre-intervention,37:38:00,38:38:00,Very drowsy
+9,Pre-intervention,38:38:00,39:38:00,Very drowsy
+9,Pre-intervention,39:38:00,40:38:00,Very drowsy
+9,Pre-intervention,40:38:00,41:38:00,Moderately drowsy
+9,Pre-intervention,41:38:00,42:38:00,Very drowsy
+9,Pre-intervention,42:38:00,43:38:00,Very drowsy
+9,Pre-intervention,43:38:00,44:38:00,Very drowsy
+9,Pre-intervention,44:38:00,45:38:00,Very drowsy
+9,Intervention (n-back),45:38:00,46:38:00,Not drowsy
+9,Intervention (2-back),46:38:00,47:38:00,Slightly drowsy
+9,Intervention (2-back),47:38:00,48:38:00,Not drowsy
+9,Intervention (2-back),48:38:00,49:38:00,Not drowsy
+9,Intervention (2-back),49:38:00,50:38:00,Not drowsy
+9,Intervention (2-back),50:38:00,51:38:00,Not drowsy
+9,Intervention (1-back),51:38:00,52:38:00,Not drowsy
+9,Intervention (1-back),52:38:00,53:38:00,Slightly drowsy
+9,Intervention (1-back),53:38:00,54:38:00,Slightly drowsy
+9,Intervention (1-back),54:38:00,55:38:00,Slightly drowsy
+9,Post-intervention,55:38:00,56:38:00,Moderately Drowsy
+9,Post-intervention,56:38:00,57:38:00,Slightly drowsy
+9,Post-intervention,57:38:00,58:38:00,Slightly drowsy
+9,Post-intervention,58:38:00,59:38:00,Moderately Drowsy
+9,Post-intervention,59:38:00,60:38:00,Moderately drowsy
+9,Post-intervention,60:38:00,61:38:00,Slightly drowsy
+9,Post-intervention,61:38:00,62:38:00,Moderately drowsy
+9,Post-intervention,62:38:00,63:38:00,Very drowsy
+9,Post-intervention,63:38:00,64:38:00,Very drowsy
+9,Post-intervention,64:38:00,65:38:00,Very drowsy
+9,Post-intervention,65:38:00,66:38:00,Very drowsy
+9,,00:00:38,00:01:38,Not drowsy
+9,,00:01:38,00:02:38,Not drowsy
+12,,00:02:29,00:03:29,Not drowsy
+12,,00:03:29,00:04:29,Not drowsy
+12,,00:04:29,00:05:29,Not drowsy
+12,,00:05:29,00:06:29,Not drowsy
+12,,00:06:29,00:07:29,Not drowsy
+12,,00:07:29,00:08:29,Not drowsy
+12,,00:08:29,00:09:29,Not drowsy
+12,,00:09:29,00:10:29,Not drowsy
+12,,00:10:29,00:11:29,Not drowsy
+12,,00:11:29,00:12:29,Not drowsy
+12,,00:12:29,00:13:29,Not drowsy
+12,,00:13:29,00:14:29,Not drowsy
+12,,00:14:29,00:15:29,Not drowsy
+12,,00:15:29,00:16:29,Not drowsy
+12,,00:16:29,00:17:29,Slightly drowsy
+12,,00:17:29,00:18:29,Slightly drowsy
+12,,00:18:29,00:19:29,Slightly drowsy
+12,,00:19:29,00:20:29,Not drowsy
+12,,00:20:29,00:21:29,Slightly drowsy
+12,,00:21:29,00:22:29,Slightly drowsy
+12,,00:22:29,00:23:29,Slightly drowsy
+12,,00:23:29,00:24:29,Slightly drowsy
+12,,00:24:29,00:25:29,Slightly drowsy
+12,,00:25:29,00:26:29,Slightly drowsy
+12,,00:26:29,00:27:29,Slightly drowsy
+12,,00:27:29,00:28:29,Slightly drowsy
+12,,00:28:29,00:29:29,Slightly drowsy
+12,,00:29:29,00:30:29,Slightly drowsy
+12,,00:30:29,00:31:29,Slightly drowsy
+12,Pre-intervention,31:29:00,32:29:00,Slightly drowsy
+12,Pre-intervention,32:29:00,33:29:00,Slightly drowsy
+12,Pre-intervention,33:29:00,34:29:00,Slightly drowsy
+12,Pre-intervention,34:29:00,35:29:00,She talked (don't include)
+12,Pre-intervention,35:29:00,36:29:00,Slightly drowsy
+12,Pre-intervention,36:29:00,37:29:00,Moderately drowsy
+12,Pre-intervention,37:29:00,38:29:00,Slightly drowsy
+12,Pre-intervention,38:29:00,39:29:00,Slightly drowsy
+12,Pre-intervention,39:29:00,40:29:00,Slightly drowsy
+12,Pre-intervention,40:29:00,41:29:00,Slightly drowsy
+12,Intervention (2 back test),41:29:00,42:29:00,Not drowsy
+12,Intervention (2 back test),42:29:00,43:29:00,Not drowsy
+12,Intervention (2 back test),43:29:00,44:29:00,Not drowsy
+12,Intervention (2 back test),44:29:00,45:29:00,Not drowsy
+12,Intervention (2 back test),45:29:00,46:29:00,Not drowsy
+12,Intervention (2 back test),46:29:00,47:29:00,Not drowsy
+12,Intervention (1 back test),47:29:00,48:29:00,Slightly drowsy
+12,Intervention (1 back test),48:29:00,49:29:00,Slightly drowsy
+12,Intervention (1 back test),49:29:00,50:29:00,Slightly drowsy
+12,Intervention (1 back test),50:29:00,51:29:00,Slightly drowsy
+12,Post-intervention,51:29:00,52:29:00,Moderately Drowsy
+12,Post-intervention,52:29:00,53:29:00,Slightly drowsy
+12,Post-intervention,53:29:00,54:29:00,Slightly drowsy
+12,Post-intervention,54:29:00,55:29:00,Slightly drowsy
+12,Post-intervention,55:29:00,56:29:00,Slightly drowsy
+12,Post-intervention,56:29:00,57:29:00,Slightly drowsy
+12,Post-intervention,57:29:00,58:29:00,Moderately drowsy
+12,Post-intervention,58:29:00,59:29:00,Very drowsy
+12,Post-intervention,59:29:00,60:29:00,Slightly drowsy
+12,Post-intervention,60:29:00,61:29:00,Moderately drowsy
+12,Post-intervention,61:29:00,62:29:00,Slightly drowsy
+12,,00:00:29,00:01:29,Not drowsy
+12,,00:01:29,00:02:29,Not drowsy
+13,Pre-intervention,60:06:00,61:06:00,Slightly drowsy
+13,Pre-intervention,61:06:00,62:06:00,Slightly drowsy
+13,Pre-intervention,62:06:00,63:06:00,Slightly drowsy
+13,Pre-intervention,63:06:00,64:06:00,Slightly drowsy
+13,Pre-intervention,64:06:00,65:06:00,Not drowsy
+13,Pre-intervention,65:06:00,66:06:00,Slightly drowsy
+13,Pre-intervention,66:06:00,67:06:00,Slightly drowsy
+13,Pre-intervention,67:06:00,68:06:00,Not drowsy
+13,Pre-intervention,68:06:00,69:06:00,Not drowsy
+13,Pre-intervention,69:06:00,70:06:00,Not drowsy
+13,Intervention (1 back test),70:06:00,71:06:00,Not drowsy
+13,Intervention (1 back test),71:06:00,72:06:00,Not drowsy
+13,Intervention (1 back test),72:06:00,73:06:00,Not drowsy
+13,Intervention (1 back test),73:06:00,74:06:00,Not drowsy
+13,Intervention (1 back test),74:06:00,75:06:00,Not drowsy
+13,Intervention (1 back test),75:06:00,76:06:00,Not drowsy
+13,Intervention (2 back test),76:06:00,77:06:00,Not drowsy
+13,Intervention (2 back test),77:06:00,78:06:00,Not drowsy
+13,Intervention (2 back test),78:06:00,79:06:00,Not drowsy
+13,Intervention (2 back test),79:06:00,80:06:00,Not drowsy
+13,Post-intervention,80:06:00,81:06:00,Not drowsy
+13,Post-intervention,81:06:00,82:06:00,Slightly drowsy
+13,Post-intervention,82:06:00,83:06:00,Not drowsy
+13,Post-intervention,83:06:00,84:06:00,Not drowsy
+13,Post-intervention,84:06:00,85:06:00,Not drowsy
+13,Post-intervention,85:06:00,86:06:00,Slightly drowsy
+13,Post-intervention,86:06:00,87:06:00,Slightly drowsy
+13,Post-intervention,87:06:00,88:06:00,Not drowsy
+13,Post-intervention,88:06:00,89:06:00,Not drowsy
+13,Post-intervention,89:06:00,90:06:00,Slightly drowsy
+13,Post-intervention,90:06:00,91:06:00,Not drowsy
+15,Pre-intervention,32:52:00,33:52:00,Slightly drowsy
+15,Pre-intervention,33:52:00,34:52:00,Slightly drowsy
+15,Pre-intervention,34:52:00,35:52:00,Slightly drowsy
+15,Pre-intervention,35:52:00,36:52:00,Slightly drowsy
+15,Pre-intervention,36:52:00,37:52:00,Slightly drowsy
+15,Pre-intervention,37:52:00,38:52:00,Moderately Drowsy
+15,Pre-intervention,38:52:00,39:52:00,Slightly drowsy
+15,Pre-intervention,39:52:00,40:52:00,Slightly drowsy
+15,Pre-intervention,40:52:00,41:52:00,Moderately drowsy
+15,Pre-intervention,41:52:00,42:52:00,Moderately Drowsy
+15,Intervention (n-back),42:52:00,43:52:00,Not drowsy
+15,Intervention (1-back),43:52:00,44:52:00,Slightly drowsy
+15,Intervention (1-back),44:52:00,45:52:00,Slightly drowsy
+15,Intervention (1-back),45:52:00,46:52:00,Slightly drowsy
+15,Intervention (1-back),46:52:00,47:52:00,Not drowsy
+15,Post-intervention (1-back),47:52:00,48:52:00,Slightly drowsy
+15,Intervention (2-back),48:52:00,49:52:00,Slightly drowsy
+15,Intervention (2-back),49:52:00,50:52:00,Not drowsy
+15,Intervention (2-back),50:52:00,51:52:00,Not drowsy
+15,Intervention (2-back),51:52:00,52:52:00,Not drowsy
+15,Post-intervention,52:52:00,53:52:00,Not drowsy
+15,Post-intervention,53:52:00,54:52:00,Slightly drowsy
+15,Post-intervention,54:52:00,55:52:00,Slightly drowsy
+15,Post-intervention,55:52:00,56:52:00,Slightly drowsy
+15,Post-intervention,56:52:00,57:52:00,Slightly drowsy
+15,Post-intervention,57:52:00,58:52:00,Slightly drowsy
+15,Post-intervention,58:52:00,59:52:00,Slightly drowsy
+15,Post-intervention,59:52:00,60:52:00,Slightly drowsy
+15,Post-intervention,60:52:00,61:52:00,Slightly drowsy
+15,Post-intervention,61:52:00,62:52:00,Slightly drowsy
+15,Pre-intervention,62:52:00,63:52:00,Slightly drowsy
+17,Pre-intervention,30:48:00,31:48:00,Moderately Drowsy
+17,Pre-intervention,31:48:00,32:48:00,Slightly drowsy
+17,Pre-intervention,32:48:00,33:48:00,Slightly drowsy
+17,Pre-intervention,33:48:00,34:48:00,Slightly drowsy
+17,Pre-intervention,34:48:00,35:48:00,Slightly drowsy
+17,Pre-intervention,35:48:00,36:48:00,Slightly drowsy
+17,Pre-intervention,36:48:00,37:48:00,Slightly drowsy
+17,Pre-intervention,37:48:00,38:48:00,Slightly drowsy
+17,Pre-intervention,38:48:00,39:48:00,Moderately drowsy
+17,Pre-intervention,39:48:00,40:48:00,Not drowsy
+17,Intervention (n-back),40:48:00,41:48:00,Not drowsy
+17,Intervention (2-back),41:48:00,42:48:00,Not drowsy
+17,Intervention (2-back),42:48:00,43:48:00,Not drowsy
+17,Intervention (2-back),43:48:00,44:48:00,Not drowsy
+17,Intervention (2-back),44:48:00,45:48:00,Not drowsy
+17,Post-intervention (2-back),45:48:00,46:48:00,Not drowsy
+17,Intervention (1-back),46:48:00,47:48:00,Slightly drowsy
+17,Intervention (1-back),47:48:00,48:48:00,Not drowsy
+17,Intervention (1-back),48:48:00,49:48:00,Slightly drowsy
+17,Intervention (1-back),49:48:00,50:48:00,Not drowsy
+17,Post-intervention,50:48:00,51:48:00,Slightly drowsy
+17,Post-intervention,51:48:00,52:48:00,Slightly drowsy
+17,Post-intervention,52:48:00,53:48:00,Moderately drowsy
+17,Post-intervention,53:48:00,54:48:00,Moderately Drowsy
+17,Post-intervention,54:48:00,55:48:00,Slightly drowsy
+17,Post-intervention,55:48:00,56:48:00,Slightly drowsy
+17,Post-intervention,56:48:00,57:48:00,Not drowsy
+17,Post-intervention,57:48:00,58:48:00,Slightly drowsy
+17,Post-intervention,58:48:00,59:48:00,Slightly drowsy
+17,Post-intervention,59:48:00,60:48:00,Moderately drowsy
+17,Post-intervention,60:48:00,61:48:00,Moderately Drowsy
+18,Pre-intervention,60:15:00,61:15:00,Slightly drowsy
+18,Pre-intervention,61:15:00,62:15:00,Slightly drowsy
+18,Pre-intervention,62:15:00,63:15:00,Not drowsy
+18,Pre-intervention,63:15:00,64:15:00,Not drowsy
+18,Pre-intervention,64:15:00,65:15:00,Not drowsy
+18,Pre-intervention,65:15:00,66:15:00,Not drowsy
+18,Pre-intervention,66:15:00,67:15:00,Slightly drowsy
+18,Pre-intervention,67:15:00,68:15:00,Not drowsy
+18,Pre-intervention,68:15:00,69:15:00,Slightly drowsy
+18,Pre-intervention,69:15:00,70:15:00,Slightly drowsy
+18,Intervention (Combination),70:15:00,71:15:00,Not drowsy
+18,Intervention (Combination 1-back),71:15:00,72:15:00,Not drowsy
+18,Intervention (Combination 1-back),72:15:00,73:15:00,Slightly drowsy
+18,Intervention (Combination 1-back),73:15:00,74:15:00,Slightly drowsy
+18,Intervention (Combination 1-back),74:15:00,75:15:00,Slightly drowsy
+18,Intervention (Automation),75:15:00,76:15:00,Not drowsy
+18,Intervention (Combination 2-back),76:15:00,77:15:00,Not drowsy
+18,Intervention (Combination 2-back),77:15:00,78:15:00,Not drowsy
+18,Intervention (Combination 2-back),78:15:00,79:15:00,Slightly drowsy
+18,Intervention (Combination 2-back),79:15:00,80:15:00,Not drowsy
+18,Intervention (Automation),80:15:00,81:15:00,Not drowsy
+18,Post-intervention,81:15:00,82:15:00,Not drowsy
+18,Post-intervention,82:15:00,83:15:00,Not drowsy
+18,Post-intervention,83:15:00,84:15:00,Not drowsy
+18,Post-intervention,84:15:00,85:15:00,Not drowsy
+18,Post-intervention,85:15:00,86:15:00,Not drowsy
+18,Post-intervention,86:15:00,87:15:00,Not drowsy
+18,Post-intervention,87:15:00,88:15:00,Slightly drowsy
+18,Post-intervention,88:15:00,89:15:00,Slightly drowsy
+18,Post-intervention,89:15:00,90:15:00,Slightly drowsy
+18,Post-intervention,90:15:00,91:15:00,Slightly drowsy
+18,Post-intervention,91:15:00,92:15:00,Slightly drowsy
+19,Pre-intervention,53:06:00,54:06:00,Not drowsy
+19,Pre-intervention,54:06:00,55:06:00,Slightly drowsy
+19,Pre-intervention,55:06:00,56:06:00,Not drowsy
+19,Pre-intervention,56:06:00,57:06:00,Slightly drowsy
+19,Pre-intervention,57:06:00,58:06:00,Slightly drowsy
+19,Pre-intervention,58:06:00,59:06:00,Slightly drowsy
+19,Pre-intervention,59:06:00,60:06:00,Slightly drowsy
+19,Pre-intervention,60:06:00,61:06:00,Slightly drowsy
+19,Pre-intervention,61:06:00,62:06:00,Slightly drowsy
+19,Pre-intervention,62:06:00,63:06:00,Not drowsy
+19,Pre-intervention,63:06:00,64:06:00,Not drowsy
+19,Intervention (Combination),64:06:00,65:06:00,Slightly drowsy
+19,Intervention (Combination 2-back),65:06:00,66:06:00,Not drowsy
+19,Intervention (Combination 2-back),66:06:00,67:06:00,Not drowsy
+19,Intervention (Combination 2-back),67:06:00,68:06:00,Slightly drowsy
+19,Intervention (Automation),68:06:00,69:06:00,Slightly drowsy
+19,Intervention (Combination 1-back),69:06:00,70:06:00,Not drowsy
+19,Intervention (Combination 1-back),70:06:00,71:06:00,Not drowsy
+19,Intervention (Combination 1-back),71:06:00,72:06:00,Not drowsy
+19,Intervention (Combination 1-back),72:06:00,73:06:00,Not drowsy
+19,Intervention (Automation),73:06:00,74:06:00,Not drowsy
+19,Post-intervention,74:06:00,75:06:00,Not drowsy
+19,Post-intervention,75:06:00,76:06:00,Slightly drowsy
+19,Post-intervention,76:06:00,77:06:00,Slightly drowsy
+19,Post-intervention,77:06:00,78:06:00,Not drowsy
+19,Post-intervention,78:06:00,79:06:00,Not drowsy
+19,Post-intervention,79:06:00,80:06:00,Slightly drowsy
+19,Post-intervention,80:06:00,81:06:00,Slightly drowsy
+19,Post-intervention,81:06:00,82:06:00,Not drowsy
+19,Post-intervention,82:06:00,83:06:00,Not drowsy
+19,Post-intervention,83:06:00,84:06:00,Slightly drowsy
+19,Post-intervention,84:06:00,85:06:00,Not drowsy
+20,Pre-intervention,14:13:00,15:13:00,Slightly drowsy
+20,Pre-intervention,15:13:00,16:13:00,Slightly drowsy
+20,Pre-intervention,16:13:00,17:13:00,Moderately Drowsy
+20,Pre-intervention,17:13:00,18:13:00,Slightly drowsy
+20,Pre-intervention,18:13:00,19:13:00,Moderately drowsy
+20,Pre-intervention,19:13:00,20:13:00,Moderately drowsy
+20,Pre-intervention,20:13:00,21:13:00,Moderately drowsy
+20,Pre-intervention,21:13:00,22:13:00,Moderately drowsy
+20,Pre-intervention,22:13:00,23:13:00,Slightly drowsy
+20,Pre-intervention,23:13:00,24:13:00,Slightly drowsy
+20,Intervention (n-back),24:13:00,25:13:00,Slightly drowsy
+20,Intervention (2-back),25:13:00,26:13:00,Slightly drowsy
+20,Intervention (2-back),26:13:00,27:13:00,Slightly drowsy
+20,Intervention (2-back),27:13:00,28:13:00,Slightly drowsy
+20,Intervention (2-back),28:13:00,29:13:00,Slightly drowsy
+20,Post-intervention (2-back),29:13:00,30:13:00,Slightly drowsy
+20,Intervention (1-back),30:13:00,31:13:00,Moderately drowsy
+20,Intervention (1-back),31:13:00,32:13:00,Moderately drowsy
+20,Intervention (1-back),32:13:00,33:13:00,Moderately Drowsy
+20,Intervention (1-back),33:13:00,34:13:00,Slightly drowsy
+20,Post-intervention,34:13:00,35:13:00,Not drowsy
+20,Post-intervention,35:13:00,36:13:00,Slightly drowsy
+20,Post-intervention,36:13:00,37:13:00,Slightly drowsy
+20,Post-intervention,37:13:00,38:13:00,Slightly drowsy
+20,Post-intervention,38:13:00,39:13:00,Not drowsy
+20,Post-intervention,39:13:00,40:13:00,Slightly drowsy
+20,Post-intervention,40:13:00,41:13:00,Slightly drowsy
+20,Post-intervention,41:13:00,42:13:00,Slightly drowsy
+20,Post-intervention,42:13:00,43:13:00,Slightly drowsy
+20,Post-intervention,43:13:00,44:13:00,Slightly drowsy
+20,Post-intervention,44:13:00,45:13:00,Slightly drowsy
+21,Pre-intervention,24:40:00,25:40:00,Very drowsy
+21,Pre-intervention,25:40:00,26:40:00,Very drowsy
+21,Pre-intervention,26:40:00,27:40:00,Very drowsy
+21,Pre-intervention,27:40:00,28:40:00,Very drowsy
+21,Pre-intervention,28:40:00,29:40:00,Very drowsy
+21,Pre-intervention,29:40:00,30:40:00,Very drowsy
+21,Pre-intervention,30:40:00,31:40:00,Very drowsy
+21,Pre-intervention,31:40:00,32:40:00,Very drowsy
+21,Pre-intervention,32:40:00,33:40:00,Very drowsy
+21,Pre-intervention,33:40:00,34:40:00,Very drowsy
+21,Intervention (n-back),34:40:00,35:40:00,Moderately Drowsy
+21,Intervention (1-back),35:40:00,36:40:00,Very drowsy
+21,Intervention (1-back),36:40:00,37:40:00,Moderately drowsy
+21,Intervention (1-back),37:40:00,38:40:00,Very drowsy
+21,Intervention (1-back),38:40:00,39:40:00,Very drowsy
+21,Post-intervention (1-back),39:40:00,40:40:00,Very drowsy
+21,Intervention (2-back),40:40:00,41:40:00,Extremely drowsy
+21,Intervention (2-back),41:40:00,42:40:00,Very drowsy
+21,Intervention (2-back),42:40:00,43:40:00,Very drowsy
+21,Intervention (2-back),43:40:00,44:40:00,Very drowsy
+21,Post-intervention,44:40:00,45:40:00,Extremely drowsy
+21,Post-intervention,45:40:00,46:40:00,Very drowsy
+22,Pre-intervention,31:43:00,32:43:00,Not drowsy
+22,Pre-intervention,32:43:00,33:43:00,Slightly drowsy
+22,Pre-intervention,33:43:00,34:43:00,Not drowsy
+22,Pre-intervention,34:43:00,35:43:00,Not drowsy
+22,Pre-intervention,35:43:00,36:43:00,Not drowsy
+22,Pre-intervention,36:43:00,37:43:00,Not drowsy
+22,Pre-intervention,37:43:00,38:43:00,Slightly drowsy
+22,Pre-intervention,38:43:00,39:43:00,Slightly drowsy
+22,Pre-intervention,39:43:00,40:43:00,Not drowsy
+22,Pre-intervention,40:43:00,41:43:00,Slightly drowsy
+22,Intervention (Combination),41:43:00,42:43:00,Not drowsy
+22,Intervention (Combination 2-back),42:43:00,43:43:00,Not drowsy
+22,Intervention (Combination 2-back),43:43:00,44:43:00,Not drowsy
+22,Intervention (Combination 2-back),44:43:00,45:43:00,Not drowsy
+22,Intervention (Combination 2-back),45:43:00,46:43:00,Not drowsy
+22,Intervention (Automation),46:43:00,47:43:00,Not drowsy
+22,Intervention (Combination 1-back),47:43:00,48:43:00,Not drowsy
+22,Intervention (Combination 1-back),48:43:00,49:43:00,Not drowsy
+22,Intervention (Combination 1-back),49:43:00,50:43:00,Not drowsy
+22,Intervention (Combination 1-back),50:43:00,51:43:00,Not drowsy
+22,Intervention (Automation),51:43:00,52:43:00,Slightly drowsy
+22,Post-intervention,52:43:00,53:43:00,Not drowsy
+22,Post-intervention,53:43:00,54:43:00,Not drowsy
+22,Post-intervention,54:43:00,55:43:00,Slightly drowsy
+22,Post-intervention,55:43:00,56:43:00,Slightly drowsy
+22,Post-intervention,56:43:00,57:43:00,Not drowsy
+22,Post-intervention,57:43:00,58:43:00,Slightly drowsy
+22,Post-intervention,58:43:00,59:43:00,Slightly drowsy
+22,Post-intervention,59:43:00,60:43:00,Not drowsy
+22,Post-intervention,60:43:00,61:43:00,Slightly drowsy
+22,Post-intervention,61:43:00,62:43:00,Slightly drowsy
+22,Post-intervention,62:43:00,63:43:00,Not drowsy
+23,Pre-intervention,31:40:00,32:40:00,Slightly drowsy
+23,Pre-intervention,32:40:00,33:40:00,Slightly drowsy
+23,Pre-intervention,33:40:00,34:40:00,Slightly drowsy
+23,Pre-intervention,34:40:00,35:40:00,Slightly drowsy
+23,Pre-intervention,35:40:00,36:40:00,Slightly drowsy
+23,Pre-intervention,36:40:00,37:40:00,Slightly drowsy
+23,Pre-intervention,37:40:00,38:40:00,Slightly drowsy
+23,Pre-intervention,38:40:00,39:40:00,Slightly drowsy
+23,Pre-intervention,39:40:00,40:40:00,Moderately drowsy
+23,Pre-intervention,40:40:00,41:40:00,Moderately drowsy
+23,Intervention (n-back),41:40:00,42:40:00,Slightly drowsy
+23,Intervention (1-back),42:40:00,43:40:00,Slightly drowsy
+23,Intervention (1-back),43:40:00,44:40:00,Slightly drowsy
+23,Intervention (1-back),44:40:00,45:40:00,Very drowsy
+23,Intervention (1-back),45:40:00,46:40:00,Slightly drowsy
+23,Post-intervention (1-back),46:40:00,47:40:00,Slightly drowsy
+23,Intervention (2-back),47:40:00,48:40:00,Slightly drowsy
+23,Intervention (2-back),48:40:00,49:40:00,Slightly drowsy
+23,Intervention (2-back),49:40:00,50:40:00,Slightly drowsy
+23,Intervention (2-back),50:40:00,51:40:00,Slightly drowsy
+23,Post-intervention,51:40:00,52:40:00,Slightly drowsy
+23,Post-intervention,52:40:00,53:40:00,Slightly drowsy
+23,Post-intervention,53:40:00,54:40:00,Slightly drowsy
+23,Post-intervention,54:40:00,55:40:00,Slightly drowsy
+23,Post-intervention,55:40:00,56:40:00,Slightly drowsy
+23,Post-intervention,56:40:00,57:40:00,Slightly drowsy
+23,Post-intervention,57:40:00,58:40:00,Very drowsy
+23,Post-intervention,58:40:00,59:40:00,Slightly drowsy
+23,Post-intervention,59:40:00,60:40:00,Slightly drowsy
+23,Post-intervention,60:40:00,61:40:00,Slightly drowsy
+23,Post-intervention,61:40:00,62:40:00,Moderately drowsy
+24,Pre-intervention,60:15:00,61:15:00,Slightly drowsy
+24,Pre-intervention,61:15:00,62:15:00,Slightly drowsy
+24,Pre-intervention,62:15:00,63:15:00,Slightly drowsy
+24,Pre-intervention,63:15:00,64:15:00,Not drowsy
+24,Pre-intervention,64:15:00,65:15:00,Slightly drowsy
+24,Pre-intervention,65:15:00,66:15:00,Slightly drowsy
+24,Pre-intervention,66:15:00,67:15:00,Slightly drowsy
+24,Pre-intervention,67:15:00,68:15:00,Slightly drowsy
+24,Pre-intervention,68:15:00,69:15:00,Slightly drowsy
+24,Pre-intervention,69:15:00,70:15:00,Slightly drowsy
+24,Intervention (Combination),70:15:00,71:15:00,Not drowsy
+24,Intervention (Combination 2-back),71:15:00,72:15:00,Not drowsy
+24,Intervention (Combination 2-back),72:15:00,73:15:00,Not drowsy
+24,Intervention (Combination 2-back),73:15:00,74:15:00,Not drowsy
+24,Intervention (Combination 2-back),74:15:00,75:15:00,Not drowsy
+24,Intervention (Automation),75:15:00,76:15:00,Not drowsy
+24,Intervention (Combination 1-back),76:15:00,77:15:00,Not drowsy
+24,Intervention (Combination 1-back),77:15:00,78:15:00,Not drowsy
+24,Intervention (Combination 1-back),78:15:00,79:15:00,Not drowsy
+24,Intervention (Combination 1-back),79:15:00,80:15:00,Not drowsy
+24,Intervention (Automation),80:15:00,81:15:00,Not drowsy
+24,Post-intervention,81:15:00,82:15:00,Not drowsy
+24,Post-intervention,82:15:00,83:15:00,Slightly drowsy
+24,Post-intervention,83:15:00,84:15:00,Slightly drowsy
+24,Post-intervention,84:15:00,85:15:00,Slightly drowsy
+24,Post-intervention,85:15:00,86:15:00,Slightly drowsy
+24,Post-intervention,86:15:00,87:15:00,Slightly drowsy
+24,Post-intervention,87:15:00,88:15:00,Slightly drowsy
+24,Post-intervention,88:15:00,89:15:00,Slightly drowsy
+24,Post-intervention,89:15:00,90:15:00,Slightly drowsy
+24,Post-intervention,90:15:00,91:15:00,Slightly drowsy
+25,Post-intervention,91:15:00,92:15:00,Slightly drowsy
+26,Pre-intervention,52:15:00,53:15:00,Slightly drowsy
+26,Pre-intervention,53:15:00,54:15:00,Slightly drowsy
+26,Pre-intervention,54:15:00,55:15:00,Moderately drowsy
+26,Pre-intervention,55:15:00,56:15:00,Moderately drowsy
+26,Pre-intervention,56:15:00,57:15:00,Very drowsy
+26,Pre-intervention,57:15:00,58:15:00,Not drowsy
+26,Pre-intervention,58:15:00,59:15:00,Slightly drowsy
+26,Pre-intervention,59:15:00,60:15:00,Slightly drowsy
+26,Pre-intervention,60:15:00,61:15:00,Slightly drowsy
+26,Pre-intervention,61:15:00,62:15:00,Slightly drowsy
+26,Intervention (Combination),62:15:00,63:15:00,Not drowsy
+26,Intervention (Combination 1-back),63:15:00,64:15:00,Not drowsy
+26,Intervention (Combination 1-back),64:15:00,65:15:00,Slightly drowsy
+26,Intervention (Combination 1-back),65:15:00,66:15:00,Not drowsy
+26,Intervention (Combination 1-back),66:15:00,67:15:00,Not drowsy
+26,Post-intervention (1-back),67:15:00,68:15:00,Not drowsy
+26,Intervention (Combination 2-back),68:15:00,69:15:00,Not drowsy
+26,Intervention (Combination 2-back),69:15:00,70:15:00,Not drowsy
+26,Intervention (Combination 2-back),70:15:00,71:15:00,Not drowsy
+26,Intervention (Combination 2-back),71:15:00,72:15:00,Not drowsy
+26,Intervention (Automation),72:15:00,73:15:00,Not drowsy
+26,Post-intervention,73:15:00,74:15:00,Not drowsy
+26,Post-intervention,74:15:00,75:15:00,Not drowsy
+26,Post-intervention,75:15:00,76:15:00,Not drowsy
+26,Post-intervention,76:15:00,77:15:00,Not drowsy
+26,Post-intervention,77:15:00,78:15:00,Slightly drowsy
+26,Post-intervention,78:15:00,79:15:00,Moderately drowsy
+26,Post-intervention,79:15:00,80:15:00,Not drowsy
+26,Post-intervention,80:15:00,81:15:00,Moderately drowsy
+26,Post-intervention,81:15:00,82:15:00,Not drowsy
+26,Post-intervention,82:15:00,83:15:00,Not drowsy
+26,Post-intervention,83:15:00,84:15:00,Slightly drowsy
+27,Pre-intervention,30:45:00,31:45:00,Slightly drowsy
+27,Pre-intervention,31:45:00,32:45:00,Slightly drowsy
+27,Pre-intervention,32:45:00,33:45:00,Slightly drowsy
+27,Pre-intervention,33:45:00,34:45:00,Slightly drowsy
+27,Pre-intervention,34:45:00,35:45:00,Slightly drowsy
+27,Pre-intervention,35:45:00,36:45:00,Slightly drowsy
+27,Pre-intervention,36:45:00,37:45:00,Slightly drowsy
+27,Pre-intervention,37:45:00,38:45:00,Slightly drowsy
+27,Pre-intervention,38:45:00,39:45:00,Slightly drowsy
+27,Pre-intervention,39:45:00,40:45:00,Slightly drowsy
+27,Intervention (Combination),40:45:00,41:45:00,Not drowsy
+27,Intervention (Combination 1-back),41:45:00,42:45:00,Slightly drowsy
+27,Intervention (Combination 1-back),42:45:00,43:45:00,Slightly drowsy
+27,Intervention (Combination 1-back),43:45:00,44:45:00,Slightly drowsy
+27,Intervention (Combination 1-back),44:45:00,45:45:00,Slightly drowsy
+27,Post-intervention (1-back),45:45:00,46:45:00,Slightly drowsy
+27,Intervention (Combination 2-back),46:45:00,47:45:00,Slightly drowsy
+27,Intervention (Combination 2-back),47:45:00,48:45:00,Slightly drowsy
+27,Intervention (Combination 2-back),48:45:00,49:45:00,Slightly drowsy
+27,Intervention (Combination 2-back),49:45:00,50:45:00,Slightly drowsy
+27,Intervention (Automation),50:45:00,51:45:00,Slightly drowsy
+27,Post-intervention,51:45:00,52:45:00,Slightly drowsy
+27,Post-intervention,52:45:00,53:45:00,Slightly drowsy
+27,Post-intervention,53:45:00,54:45:00,Slightly drowsy
+27,Post-intervention,54:45:00,55:45:00,Slightly drowsy
+27,Post-intervention,55:45:00,56:45:00,Slightly drowsy
+27,Post-intervention,56:45:00,57:45:00,Slightly drowsy
+27,Post-intervention,57:45:00,58:45:00,Slightly drowsy
+27,Post-intervention,58:45:00,59:45:00,Slightly drowsy
+27,Post-intervention,59:45:00,60:45:00,Not drowsy
+27,Post-intervention,60:45:00,61:45:00,Slightly drowsy
+27,Post-intervention,61:45:00,62:45:00,Slightly drowsy
+28,Pre-intervention,34:03:00,35:03:00,Slightly drowsy
+28,Pre-intervention,35:03:00,36:03:00,Slightly drowsy
+28,Pre-intervention,36:03:00,37:03:00,Slightly drowsy
+28,Pre-intervention,37:03:00,38:03:00,Slightly drowsy
+28,Pre-intervention,38:03:00,39:03:00,Slightly drowsy
+28,Pre-intervention,39:03:00,40:03:00,Slightly drowsy
+28,Pre-intervention,40:03:00,41:03:00,Moderately drowsy
+28,Pre-intervention,41:03:00,42:03:00,Moderately drowsy
+28,Pre-intervention,42:03:00,43:03:00,Slightly drowsy
+28,Pre-intervention,43:03:00,44:03:00,Moderately drowsy
+28,Intervention (n-back),44:03:00,45:03:00,Slightly drowsy
+28,Intervention (1-back),45:03:00,46:03:00,Not drowsy
+28,Intervention (1-back),46:03:00,47:03:00,Not drowsy
+28,Intervention (1-back),47:03:00,48:03:00,Slightly drowsy
+28,Intervention (1-back),48:03:00,49:03:00,Slightly drowsy
+28,Post-intervention (1-back),49:03:00,50:03:00,Slightly drowsy
+28,Intervention (2-back),50:03:00,51:03:00,Slightly drowsy
+28,Intervention (2-back),51:03:00,52:03:00,Slightly drowsy
+28,Intervention (2-back),52:03:00,53:03:00,Slightly drowsy
+28,Intervention (2-back),53:03:00,54:03:00,Slightly drowsy
+28,Post-intervention,54:03:00,55:03:00,Slightly drowsy
+28,Post-intervention,55:03:00,56:03:00,Slightly drowsy
+28,Post-intervention,56:03:00,57:03:00,Not drowsy
+28,Post-intervention,57:03:00,58:03:00,Slightly drowsy
+28,Post-intervention,58:03:00,59:03:00,Not drowsy
+28,Post-intervention,59:03:00,60:03:00,Not drowsy
+28,Post-intervention,60:03:00,61:03:00,Slightly drowsy
+28,Post-intervention,61:03:00,62:03:00,Slightly drowsy
+28,Post-intervention,62:03:00,63:03:00,Not drowsy
+28,Post-intervention,63:03:00,64:03:00,Slightly drowsy
+28,Post-intervention,64:03:00,65:03:00,Slightly drowsy
+29,Pre-intervention,33:06:00,34:06:00,Moderately drowsy
+29,Pre-intervention,34:06:00,35:06:00,Slightly drowsy
+29,Pre-intervention,35:06:00,36:06:00,Very drowsy
+29,Pre-intervention,36:06:00,37:06:00,Moderately drowsy
+29,Pre-intervention,37:06:00,38:06:00,Moderately drowsy
+29,Pre-intervention,38:06:00,39:06:00,Moderately drowsy
+29,Pre-intervention,39:06:00,40:06:00,Slightly drowsy
+29,Pre-intervention,40:06:00,41:06:00,Moderately drowsy
+29,Pre-intervention,41:06:00,42:06:00,Slightly drowsy
+29,Pre-intervention,42:06:00,43:06:00,Slightly drowsy
+29,Intervention (Automation),43:06:00,44:06:00,Not drowsy
+29,Intervention (Automation),44:06:00,45:06:00,Not drowsy
+29,Intervention (Automation),45:06:00,46:06:00,Not drowsy
+29,Intervention (Automation),46:06:00,47:06:00,Moderately drowsy
+29,Intervention (Automation),47:06:00,48:06:00,Slightly drowsy
+29,Intervention (Automation),48:06:00,49:06:00,Moderately drowsy
+29,Intervention (Automation),49:06:00,50:06:00,Extremely drowsy
+29,Intervention (Automation),50:06:00,51:06:00,Extremely drowsy
+29,Intervention (Automation),51:06:00,52:06:00,Extremely drowsy
+29,Intervention (Automation),52:06:00,53:06:00,Extremely drowsy
+29,Intervention (Automation),53:06:00,54:06:00,Extremely drowsy
+29,Post-intervention,54:06:00,55:06:00,Moderately drowsy
+29,Post-intervention,55:06:00,56:06:00,Slightly drowsy
+29,Post-intervention,56:06:00,57:06:00,Moderately drowsy
+29,Post-intervention,57:06:00,58:06:00,Slightly drowsy
+29,Post-intervention,58:06:00,59:06:00,Moderately drowsy
+29,Post-intervention,59:06:00,60:06:00,Moderately drowsy
+29,Post-intervention,60:06:00,61:06:00,Slightly drowsy
+29,Post-intervention,61:06:00,62:06:00,Slightly drowsy
+29,Post-intervention,62:06:00,63:06:00,Moderately drowsy
+29,Post-intervention,63:06:00,64:06:00,Slightly drowsy
+29,Post-intervention,64:06:00,65:06:00,Not drowsy
+30,Pre-intervention,32:14:00,33:14:00,Slightly drowsy
+30,Pre-intervention,33:14:00,34:14:00,Not drowsy
+30,Pre-intervention,34:14:00,35:14:00,Slightly drowsy
+30,Pre-intervention,35:14:00,36:14:00,Not drowsy
+30,Pre-intervention,36:14:00,37:14:00,Slightly drowsy
+30,Pre-intervention,37:14:00,38:14:00,Slightly drowsy
+30,Pre-intervention,38:14:00,39:14:00,Not drowsy
+30,Pre-intervention,39:14:00,40:14:00,Slightly drowsy
+30,Pre-intervention,40:14:00,41:14:00,Moderately drowsy
+30,Pre-intervention,41:14:00,42:14:00,Slightly drowsy
+30,Intervention (Automation),42:14:00,43:14:00,Not drowsy
+30,Intervention (Automation),43:14:00,44:14:00,Not drowsy
+30,Intervention (Automation),44:14:00,45:14:00,Slightly drowsy
+30,Intervention (Automation),45:14:00,46:14:00,Not drowsy
+30,Intervention (Automation),46:14:00,47:14:00,Slightly drowsy
+30,Intervention (Automation),47:14:00,48:14:00,Not drowsy
+30,Intervention (Automation),48:14:00,49:14:00,Slightly drowsy
+30,Intervention (Automation),49:14:00,50:14:00,Slightly drowsy
+30,Intervention (Automation),50:14:00,51:14:00,Slightly drowsy
+30,Intervention (Automation),51:14:00,52:14:00,Slightly drowsy
+30,Intervention (Automation),52:14:00,53:14:00,Slightly drowsy
+30,Post-intervention,53:14:00,54:14:00,Not drowsy
+30,Post-intervention,54:14:00,55:14:00,Slightly drowsy
+30,Post-intervention,55:14:00,56:14:00,Slightly drowsy
+30,Post-intervention,56:14:00,57:14:00,Slightly drowsy
+30,Post-intervention,57:14:00,58:14:00,Slightly drowsy
+30,Post-intervention,58:14:00,59:14:00,Slightly drowsy
+30,Post-intervention,59:14:00,60:14:00,Moderately drowsy
+30,Post-intervention,60:14:00,61:14:00,Moderately drowsy
+30,Post-intervention,61:14:00,62:14:00,Not drowsy
+30,Post-intervention,62:14:00,63:14:00,Not drowsy
+30,Post-intervention,63:14:00,64:14:00,Slightly drowsy
+31,Pre-intervention,36:07:00,37:07:00,Moderately drowsy
+31,Pre-intervention,37:07:00,38:07:00,Moderately drowsy
+31,Pre-intervention,38:07:00,39:07:00,Slightly drowsy
+31,Pre-intervention,39:07:00,40:07:00,Slightly drowsy
+31,Pre-intervention,40:07:00,41:07:00,Moderately drowsy
+31,Pre-intervention,41:07:00,42:07:00,Slightly drowsy
+31,Pre-intervention,42:07:00,43:07:00,Slightly drowsy
+31,Pre-intervention,43:07:00,44:07:00,Slightly drowsy
+31,Pre-intervention,44:07:00,45:07:00,Slightly drowsy
+31,Pre-intervention,45:07:00,46:07:00,Slightly drowsy
+31,Intervention (n-back),46:07:00,47:07:00,Slightly drowsy
+31,Intervention (2-back),47:07:00,48:07:00,Slightly drowsy
+31,Intervention (2-back),48:07:00,49:07:00,Not drowsy
+31,Intervention (2-back),49:07:00,50:07:00,Not drowsy
+31,Intervention (2-back),50:07:00,51:07:00,Slightly drowsy
+31,Post-intervention (2-back),51:07:00,52:07:00,Not drowsy
+31,Intervention (1-back),52:07:00,53:07:00,Slightly drowsy
+31,Intervention (1-back),53:07:00,54:07:00,Slightly drowsy
+31,Intervention (1-back),54:07:00,55:07:00,Slightly drowsy
+31,Intervention (1-back),55:07:00,56:07:00,Slightly drowsy
+31,Post-intervention,56:07:00,57:07:00,Slightly drowsy
+31,Post-intervention,57:07:00,58:07:00,Not drowsy
+31,Post-intervention,58:07:00,59:07:00,Not drowsy
+31,Post-intervention,59:07:00,60:07:00,Slightly drowsy
+31,Post-intervention,60:07:00,61:07:00,Slightly drowsy
+31,Post-intervention,61:07:00,62:07:00,Slightly drowsy
+31,Post-intervention,62:07:00,63:07:00,Slightly drowsy
+31,Post-intervention,63:07:00,64:07:00,Slightly drowsy
+31,Post-intervention,64:07:00,65:07:00,Moderately drowsy
+31,Post-intervention,65:07:00,66:07:00,Moderately drowsy
+31,Post-intervention,66:07:00,67:07:00,Slightly drowsy
+32,Pre-intervention,31:39:00,32:39:00,Slightly drowsy
+32,Pre-intervention,32:39:00,33:39:00,Slightly drowsy
+32,Pre-intervention,33:39:00,34:39:00,Slightly drowsy
+32,Pre-intervention,34:39:00,35:39:00,Slightly drowsy
+32,Pre-intervention,35:39:00,36:39:00,Not drowsy
+32,Pre-intervention,36:39:00,37:39:00,Not drowsy
+32,Pre-intervention,37:39:00,38:39:00,Slightly drowsy
+32,Pre-intervention,38:39:00,39:39:00,Slightly drowsy
+32,Pre-intervention,39:39:00,40:39:00,Slightly drowsy
+32,Pre-intervention,40:39:00,41:39:00,Slightly drowsy
+32,Intervention (Automation),41:39:00,42:39:00,Not drowsy
+32,Intervention (Automation),42:39:00,43:39:00,Slightly drowsy
+32,Intervention (Automation),43:39:00,44:39:00,Slightly drowsy
+32,Intervention (Automation),44:39:00,45:39:00,Slightly drowsy
+32,Intervention (Automation),45:39:00,46:39:00,Slightly drowsy
+32,Intervention (Automation),46:39:00,47:39:00,Moderately drowsy
+32,Intervention (Automation),47:39:00,48:39:00,Slightly drowsy
+32,Intervention (Automation),48:39:00,49:39:00,Slightly drowsy
+32,Intervention (Automation),49:39:00,50:39:00,Slightly drowsy
+32,Intervention (Automation),50:39:00,51:39:00,Slightly drowsy
+32,Intervention (Automation),51:39:00,52:39:00,Not drowsy
+32,Post-intervention,52:39:00,53:39:00,Not drowsy
+32,Post-intervention,53:39:00,54:39:00,Not drowsy
+32,Post-intervention,54:39:00,55:39:00,Not drowsy
+32,Post-intervention,55:39:00,56:39:00,Not drowsy
+32,Post-intervention,56:39:00,57:39:00,Slightly drowsy
+32,Post-intervention,57:39:00,58:39:00,Not drowsy
+32,Post-intervention,58:39:00,59:39:00,Slightly drowsy
+32,Post-intervention,59:39:00,60:39:00,Slightly drowsy
+32,Post-intervention,60:39:00,61:39:00,Slightly drowsy
+32,Post-intervention,61:39:00,62:39:00,Not drowsy
+32,Post-intervention,62:39:00,63:39:00,Not drowsy
+33,Pre-intervention,38:48:00,39:48:00,Slightly drowsy
+33,Pre-intervention,39:48:00,40:48:00,Moderately drowsy
+33,Pre-intervention,40:48:00,41:48:00,Moderately drowsy
+33,Pre-intervention,41:48:00,42:48:00,Slightly drowsy
+33,Pre-intervention,42:48:00,43:48:00,Slightly drowsy
+33,Pre-intervention,43:48:00,44:48:00,Moderately drowsy
+33,Pre-intervention,44:48:00,45:48:00,Slightly drowsy
+33,Pre-intervention,45:48:00,46:48:00,Slightly drowsy
+33,Pre-intervention,46:48:00,47:48:00,Moderately drowsy
+33,Pre-intervention,47:48:00,48:48:00,Slightly drowsy
+33,Intervention (n-back),48:48:00,49:48:00,Not drowsy
+33,Intervention (1-back),49:48:00,50:48:00,Not drowsy
+33,Intervention (1-back),50:48:00,51:48:00,Not drowsy
+33,Intervention (1-back),51:48:00,52:48:00,Slightly drowsy
+33,Intervention (1-back),52:48:00,53:48:00,Not drowsy
+33,Post-intervention,53:48:00,54:48:00,Not drowsy
+33,Intervention (2-back),54:48:00,55:48:00,Not drowsy
+33,Intervention (2-back),55:48:00,56:48:00,Not drowsy
+33,Intervention (2-back),56:48:00,57:48:00,Not drowsy
+33,Intervention (2-back),57:48:00,58:48:00,Not drowsy
+33,Post-intervention,58:48:00,59:48:00,Not drowsy
+33,Post-intervention,59:48:00,60:48:00,Not drowsy
+33,Post-intervention,60:48:00,61:48:00,Not drowsy
+33,Post-intervention,61:48:00,62:48:00,Not drowsy
+33,Post-intervention,62:48:00,63:48:00,Slightly drowsy
+33,Post-intervention,63:48:00,64:48:00,Slightly drowsy
+33,Post-intervention,64:48:00,65:48:00,Not drowsy
+33,Post-intervention,65:48:00,66:48:00,Not drowsy
+33,Post-intervention,66:48:00,67:48:00,Slightly drowsy
+33,Post-intervention,67:48:00,68:48:00,Not drowsy
+33,Post-intervention,68:48:00,69:48:00,Slightly drowsy
+34,Pre-intervention,46:30:00,47:30:00,Moderately drowsy
+34,Pre-intervention,47:30:00,48:30:00,Moderately drowsy
+34,Pre-intervention,48:30:00,49:30:00,Moderately drowsy
+34,Pre-intervention,49:30:00,50:30:00,Slightly drowsy
+34,Pre-intervention,50:30:00,51:30:00,Slightly drowsy
+34,Pre-intervention,51:30:00,52:30:00,Slightly drowsy
+34,Pre-intervention,52:30:00,53:30:00,Slightly drowsy
+34,Pre-intervention,53:30:00,54:30:00,Slightly drowsy
+34,Pre-intervention,54:30:00,55:30:00,Slightly drowsy
+34,Pre-intervention,55:30:00,56:30:00,Slightly drowsy
+34,Intervention (Automation),56:30:00,57:30:00,Not drowsy
+34,Intervention (Automation),57:30:00,58:30:00,Not drowsy
+34,Intervention (Automation),58:30:00,59:30:00,Not drowsy
+34,Intervention (Automation),59:30:00,60:30:00,Not drowsy
+34,Intervention (Automation),60:30:00,61:30:00,Not drowsy
+34,Intervention (Automation),61:30:00,62:30:00,Slightly drowsy
+34,Intervention (Automation),62:30:00,63:30:00,Not drowsy
+34,Intervention (Automation),63:30:00,64:30:00,Slightly drowsy
+34,Intervention (Automation),64:30:00,65:30:00,Not drowsy
+34,Intervention (Automation),65:30:00,66:30:00,Not drowsy
+34,Intervention (Automation),66:30:00,67:30:00,Not drowsy
+34,Post-intervention,67:30:00,68:30:00,Not drowsy
+34,Post-intervention,68:30:00,69:30:00,Slightly drowsy
+34,Post-intervention,69:30:00,70:30:00,Slightly drowsy
+34,Post-intervention,70:30:00,71:30:00,Slightly drowsy
+34,Post-intervention,71:30:00,72:30:00,Slightly drowsy
+34,Post-intervention,72:30:00,73:30:00,Slightly drowsy
+34,Post-intervention,73:30:00,74:30:00,Slightly drowsy
+34,Post-intervention,74:30:00,75:30:00,Slightly drowsy
+34,Post-intervention,75:30:00,76:30:00,Not drowsy
+34,Post-intervention,76:30:00,77:30:00,Not drowsy
+34,Post-intervention,77:30:00,78:30:00,Not drowsy
+35,Pre-intervention,60:00:00,61:00:00,Slightly drowsy
+35,Pre-intervention,61:00:00,62:00:00,Moderately drowsy
+35,Pre-intervention,62:00:00,63:00:00,Not drowsy
+35,Pre-intervention,63:00:00,64:00:00,Not drowsy
+35,Pre-intervention,64:00:00,65:00:00,Moderately Drowsy
+35,Pre-intervention,65:00:00,66:00:00,Moderately Drowsy
+35,Pre-intervention,66:00:00,67:00:00,Not drowsy
+35,Pre-intervention,67:00:00,68:00:00,Slightly drowsy
+35,Pre-intervention,68:00:00,69:00:00,Not drowsy
+35,Pre-intervention,69:00:00,70:00:00,Not drowsy
+35,Intervention (Automation),70:00:00,71:00:00,Not drowsy
+35,Intervention (Automation),71:00:00,72:00:00,Not drowsy
+35,Intervention (Automation),72:00:00,73:00:00,Not drowsy
+35,Intervention (Automation),73:00:00,74:00:00,Not drowsy
+35,Intervention (Automation),74:00:00,75:00:00,Not drowsy
+35,Intervention (Automation),75:00:00,76:00:00,Not drowsy
+35,Intervention (Automation),76:00:00,77:00:00,Not drowsy
+35,Intervention (Automation),77:00:00,78:00:00,Not drowsy
+35,Intervention (Automation),78:00:00,79:00:00,Not drowsy
+35,Intervention (Automation),79:00:00,80:00:00,Not drowsy
+35,Intervention (Automation),80:00:00,81:00:00,Slightly drowsy
+35,Post-intervention,81:00:00,82:00:00,Not drowsy
+35,Post-intervention,82:00:00,83:00:00,Slightly drowsy
+35,Post-intervention,83:00:00,84:00:00,Not drowsy
+35,Post-intervention,84:00:00,85:00:00,Not drowsy
+35,Post-intervention,85:00:00,86:00:00,Slightly drowsy
+35,Post-intervention,86:00:00,87:00:00,Not drowsy
+35,Post-intervention,87:00:00,88:00:00,Slightly drowsy
+35,Post-intervention,88:00:00,89:00:00,Slightly drowsy
+35,Post-intervention,89:00:00,90:00:00,Not drowsy
+35,Post-intervention,90:00:00,91:00:00,Not drowsy
+35,Post-intervention,91:00:00,92:00:00,Not drowsy
+36,Pre-intervention,36:44:00,37:44:00,Moderately Drowsy
+36,Pre-intervention,37:44:00,38:44:00,Slightly drowsy
+36,Pre-intervention,38:44:00,39:44:00,Not drowsy
+36,Pre-intervention,39:44:00,40:44:00,Slightly drowsy
+36,Pre-intervention,40:44:00,41:44:00,Slightly drowsy
+36,Pre-intervention,41:44:00,42:44:00,Not drowsy
+36,Pre-intervention,42:44:00,43:44:00,Slightly drowsy
+36,Pre-intervention,43:44:00,44:44:00,Slightly drowsy
+36,Pre-intervention,44:44:00,45:44:00,Slightly drowsy
+36,Pre-intervention,45:44:00,46:44:00,Slightly Drowsy
+36,Intervention (Combination),46:44:00,47:44:00,Not drowsy
+36,Intervention (Combination 1-back),47:44:00,48:44:00,Not drowsy
+36,Intervention (Combination 1-back),48:44:00,49:44:00,Not drowsy
+36,Intervention (Combination 1-back),49:44:00,50:44:00,Not drowsy
+36,Intervention (Combination 1-back),50:44:00,51:44:00,Slightly drowsy
+36,Intervention (Automation),51:44:00,52:44:00,Moderately Drowsy
+36,Intervention (Combination 2-back),52:44:00,53:44:00,Slightly drowsy
+36,Intervention (Combination 2-back),53:44:00,54:44:00,Not drowsy
+36,Intervention (Combination 2-back),54:44:00,55:44:00,Not drowsy
+36,Intervention (Combination 2-back),55:44:00,56:44:00,Slightly drowsy
+36,Intervention (Automation),56:44:00,57:44:00,Not drowsy
+36,Post-intervention,57:44:00,58:44:00,Not drowsy
+36,Post-intervention,58:44:00,59:44:00,Not drowsy
+36,Post-intervention,59:44:00,60:44:00,Not drowsy
+36,Post-intervention,60:44:00,61:44:00,Not drowsy
+36,Post-intervention,61:44:00,62:44:00,Not drowsy
+36,Post-intervention,62:44:00,63:44:00,Not drowsy
+36,Post-intervention,63:44:00,64:44:00,Not drowsy
+36,Post-intervention,64:44:00,65:44:00,Not drowsy
+36,Post-intervention,65:44:00,66:44:00,Not drowsy
+36,Post-intervention,66:44:00,67:44:00,Not drowsy
+36,Post-intervention,67:44:00,68:44:00,Not drowsy
+37,Pre-intervention,51:01:00,52:01:00,Moderately drowsy
+37,Pre-intervention,52:01:00,53:01:00,Moderately drowsy
+37,Pre-intervention,53:01:00,54:01:00,Moderately drowsy
+37,Pre-intervention,54:01:00,55:01:00,Slightly drowsy
+37,Pre-intervention,55:01:00,56:01:00,Moderately drowsy
+37,Pre-intervention,56:01:00,57:01:00,Slightly drowsy
+37,Pre-intervention,57:01:00,58:01:00,Moderately drowsy
+37,Pre-intervention,58:01:00,59:01:00,Slightly drowsy
+37,Pre-intervention,59:01:00,60:01:00,Slightly drowsy
+37,Pre-intervention,60:01:00,61:01:00,Not drowsy
+37,Intervention (Automation),61:01:00,62:01:00,Not drowsy
+37,Intervention (Automation),62:01:00,63:01:00,Not drowsy
+37,Intervention (Automation),63:01:00,64:01:00,Not drowsy
+37,Intervention (Automation),64:01:00,65:01:00,Not drowsy
+37,Intervention (Automation),65:01:00,66:01:00,Not drowsy
+37,Intervention (Automation),66:01:00,67:01:00,Not drowsy
+37,Intervention (Automation),67:01:00,68:01:00,Not drowsy
+37,Intervention (Automation),68:01:00,69:01:00,Slightly drowsy
+37,Intervention (Automation),69:01:00,70:01:00,Slightly drowsy
+37,Intervention (Automation),70:01:00,71:01:00,Not drowsy
+37,Intervention (Automation),71:01:00,72:01:00,Not drowsy
+37,Post-intervention,72:01:00,73:01:00,Not drowsy
+37,Post-intervention,73:01:00,74:01:00,Not drowsy
+37,Post-intervention,74:01:00,75:01:00,Not drowsy
+37,Post-intervention,75:01:00,76:01:00,Not drowsy
+37,Post-intervention,76:01:00,77:01:00,Not drowsy
+37,Post-intervention,77:01:00,78:01:00,Slightly drowsy
+37,Post-intervention,78:01:00,79:01:00,Slightly drowsy
+37,Post-intervention,79:01:00,80:01:00,Slightly drowsy
+37,Post-intervention,80:01:00,81:01:00,Slightly drowsy
+37,Post-intervention,81:01:00,82:01:00,Slightly drowsy
+37,Post-intervention,82:01:00,83:01:00,Slightly drowsy
+38,Pre-intervention,31:18:00,32:18:00,Slightly drowsy
+38,Pre-intervention,32:18:00,33:18:00,Slightly drowsy
+38,Pre-intervention,33:18:00,34:18:00,Slightly drowsy
+38,Pre-intervention,34:18:00,35:18:00,Slightly drowsy
+38,Pre-intervention,35:18:00,36:18:00,Moderately drowsy
+38,Pre-intervention,36:18:00,37:18:00,Slightly drowsy
+38,Pre-intervention,37:18:00,38:18:00,Moderately drowsy
+38,Pre-intervention,38:18:00,39:18:00,Moderately drowsy
+38,Pre-intervention,39:18:00,40:18:00,Slightly drowsy
+38,Pre-intervention,40:18:00,41:18:00,Slightly drowsy
+38,Intervention (Combination),41:18:00,42:18:00,Not drowsy
+38,Intervention (Combination 2-back),42:18:00,43:18:00,Not drowsy
+38,Intervention (Combination 2-back),43:18:00,44:18:00,Not drowsy
+38,Intervention (Combination 2-back),44:18:00,45:18:00,Not drowsy
+38,Intervention (Combination 2-back),45:18:00,46:18:00,Not drowsy
+38,Intervention (Automation),46:18:00,47:18:00,Not drowsy
+38,Intervention (Comination 1-back),47:18:00,48:18:00,Not drowsy
+38,Intervention (Comination 1-back),48:18:00,49:18:00,Slightly drowsy
+38,Intervention (Comination 1-back),49:18:00,50:18:00,Slightly drowsy
+38,Intervention (Comination 1-back),50:18:00,51:18:00,Not drowsy
+38,Intervention (Automation),51:18:00,52:18:00,Slightly drowsy
+38,Post-intervention,52:18:00,53:18:00,Not drowsy
+38,Post-intervention,53:18:00,54:18:00,Slightly drowsy
+38,Post-intervention,54:18:00,55:18:00,Slightly drowsy
+38,Post-intervention,55:18:00,56:18:00,Slightly drowsy
+38,Post-intervention,56:18:00,57:18:00,Not drowsy
+38,Post-intervention,57:18:00,58:18:00,Slightly drowsy
+38,Post-intervention,58:18:00,59:18:00,Slightly drowsy
+38,Post-intervention,59:18:00,60:18:00,Slightly drowsy
+38,Post-intervention,60:18:00,61:18:00,Slightly drowsy
+38,Post-intervention,61:18:00,62:18:00,Slightly drowsy
+38,Post-intervention,62:18:00,63:18:00,Slightly drowsy
+39,Pre-intervention,31:52:00,32:52:00,Slightly drowsy
+39,Pre-intervention,32:52:00,33:52:00,Slightly drowsy
+39,Pre-intervention,33:52:00,34:52:00,Not drowsy
+39,Pre-intervention,34:52:00,35:52:00,Not drowsy
+39,Pre-intervention,35:52:00,36:52:00,Slightly drowsy
+39,Pre-intervention,36:52:00,37:52:00,Slightly drowsy
+39,Pre-intervention,37:52:00,38:52:00,Slightly drowsy
+39,Pre-intervention,38:52:00,39:52:00,Slightly drowsy
+39,Pre-intervention,39:52:00,40:52:00,Slightly drowsy
+39,Pre-intervention,40:52:00,41:52:00,Slightly drowsy
+39,Intervention (Combination),41:52:00,42:52:00,Not drowsy
+39,Intervention (Combination 1-back),42:52:00,43:52:00,Not drowsy
+39,Intervention (Combination 1-back),43:52:00,44:52:00,Not drowsy
+39,Intervention (Combination 1-back),44:52:00,45:52:00,Not drowsy
+39,Intervention (Combination 1-back),45:52:00,46:52:00,Not drowsy
+39,Intervention (Automation),46:52:00,47:52:00,Slightly drowsy
+39,Intervention (Combination 2-back),47:52:00,48:52:00,Not drowsy
+39,Intervention (Combination 2-back),48:52:00,49:52:00,Not drowsy
+39,Intervention (Combination 2-back),49:52:00,50:52:00,Not drowsy
+39,Intervention (Combination 2-back),50:52:00,51:52:00,Not drowsy
+39,Intervention (Automation),51:52:00,52:52:00,Not drowsy
+39,Post-intervention,52:52:00,53:52:00,Not drowsy
+39,Post-intervention,53:52:00,54:52:00,Not drowsy
+39,Post-intervention,54:52:00,55:52:00,Not drowsy
+39,Post-intervention,55:52:00,56:52:00,Slightly drowsy
+39,Post-intervention,56:52:00,57:52:00,Slightly drowsy
+39,Post-intervention,57:52:00,58:52:00,Slightly drowsy
+39,Post-intervention,58:52:00,59:52:00,Not drowsy
+39,Post-intervention,59:52:00,60:52:00,Slightly drowsy
+39,Post-intervention,60:52:00,61:52:00,Slightly drowsy
+39,Post-intervention,61:52:00,62:52:00,Slightly drowsy
+39,Post-intervention,62:52:00,63:52:00,Slightly drowsy
+40,Pre-intervention,36:55:00,37:55:00,Slightly drowsy
+40,Pre-intervention,37:55:00,38:55:00,Slightly drowsy
+40,Pre-intervention,38:55:00,39:55:00,Slightly drowsy
+40,Pre-intervention,39:55:00,40:55:00,Slightly drowsy
+40,Pre-intervention,40:55:00,41:55:00,Slightly drowsy
+40,Pre-intervention,41:55:00,42:55:00,Slightly drowsy
+40,Pre-intervention,42:55:00,43:55:00,Slightly drowsy
+40,Pre-intervention,43:55:00,44:55:00,Slightly drowsy
+40,Pre-intervention,44:55:00,45:55:00,Slightly drowsy
+40,Pre-intervention,45:55:00,46:55:00,Slightly drowsy
+40,Intervention (Automation),46:55:00,47:55:00,Slightly drowsy
+40,Intervention (Automation),47:55:00,48:55:00,Not drowsy
+40,Intervention (Automation),48:55:00,49:55:00,Not drowsy
+40,Intervention (Automation),49:55:00,50:55:00,Slightly drowsy
+40,Intervention (Automation),50:55:00,51:55:00,Slightly drowsy
+40,Intervention (Automation),51:55:00,52:55:00,Slightly drowsy
+40,Intervention (Automation),52:55:00,53:55:00,Slightly drowsy
+40,Intervention (Automation),53:55:00,54:55:00,Slightly drowsy
+40,Intervention (Automation),54:55:00,55:55:00,Slightly drowsy
+40,Intervention (Automation),55:55:00,56:55:00,Slightly drowsy
+40,Intervention (Automation),56:55:00,57:55:00,Moderately drowsy
+40,Post-intervention,57:55:00,58:55:00,Not drowsy
+40,Post-intervention,58:55:00,59:55:00,Slightly drowsy
+40,Post-intervention,59:55:00,60:55:00,Slightly drowsy
+40,Post-intervention,60:55:00,61:55:00,Slightly drowsy
+40,Post-intervention,61:55:00,62:55:00,Slightly drowsy
+40,Post-intervention,62:55:00,63:55:00,Slightly drowsy
+40,Post-intervention,63:55:00,64:55:00,Moderately drowsy
+40,Post-intervention,64:55:00,65:55:00,Slightly drowsy
+40,Post-intervention,65:55:00,66:55:00,Slightly drowsy
+40,Post-intervention,66:55:00,67:55:00,Moderately drowsy
+40,Post-intervention,67:55:00,68:55:00,Slightly drowsy
+41,Pre-intervention,16:28:00,17:28:00,Moderately drowsy
+41,Pre-intervention,17:28:00,18:28:00,Moderately drowsy
+41,Pre-intervention,18:28:00,19:28:00,Moderately drowsy
+41,Pre-intervention,19:28:00,20:28:00,Moderately drowsy
+41,Pre-intervention,20:28:00,21:28:00,Very drowsy
+41,Pre-intervention,21:28:00,22:28:00,Moderately drowsy
+41,Pre-intervention,22:28:00,23:28:00,Moderately drowsy
+41,Pre-intervention,23:28:00,24:28:00,Moderately drowsy
+41,Pre-intervention,24:28:00,25:28:00,Moderately drowsy
+41,Pre-intervention,25:28:00,26:28:00,Very drowsy
+41,Intervention (Combination),26:28:00,27:28:00,Slightly drowsy
+41,Intervention (Combination 2-back),27:28:00,28:28:00,Extremely drowsy
+41,Intervention (Combination 2-back),28:28:00,29:28:00,Moderately drowsy
+41,Intervention (Combination 2-back),29:28:00,30:28:00,Slightly drowsy
+41,Intervention (Combination 2-back),30:28:00,31:28:00,Slightly drowsy
+41,Post-intervention,31:28:00,32:28:00,Extremely drowsy
+41,Intervention (Combination 1-back),32:28:00,33:28:00,Extremely drowsy
+41,Intervention (Combination 1-back),33:28:00,34:28:00,Extremely drowsy
+41,Intervention (Combination 1-back),34:28:00,35:28:00,Very drowsy
+41,Intervention (Combination 1-back),35:28:00,36:28:00,Extremely drowsy
+41,Intervention (Automation),36:28:00,37:28:00,Moderately drowsy
+41,Post-intervention,37:28:00,38:28:00,Moderately drowsy
+41,Post-intervention,38:28:00,39:28:00,Moderately drowsy
+41,Post-intervention,39:28:00,40:28:00,Moderately drowsy
+41,Post-intervention,40:28:00,41:28:00,Very drowsy
+41,Post-intervention,41:28:00,42:09:00,Extremely drowsy
+42,Pre-intervention,32:31:00,33:31:00,Moderately drowsy
+42,Pre-intervention,33:31:00,34:31:00,Slightly drowsy
+42,Pre-intervention,34:31:00,35:31:00,Slightly drowsy
+42,Pre-intervention,35:31:00,36:31:00,Moderately drowsy
+42,Pre-intervention,36:31:00,37:31:00,Slightly drowsy
+42,Pre-intervention,37:31:00,38:31:00,Slightly drowsy
+42,Pre-intervention,38:31:00,39:31:00,Slightly drowsy
+42,Pre-intervention,39:31:00,40:31:00,Slightly drowsy
+42,Pre-intervention,40:31:00,41:31:00,Moderately drowsy
+42,Pre-intervention,41:31:00,42:31:00,Moderately drowsy
+42,Pre-intervention,42:31:00,43:31:00,Slightly drowsy
+42,Intervention (Automation),43:31:00,44:31:00,Not drowsy
+42,Intervention (Automation),44:31:00,45:31:00,Not drowsy
+42,Intervention (Automation),45:31:00,46:31:00,Not drowsy
+42,Intervention (Automation),46:31:00,47:31:00,Not drowsy
+42,Intervention (Automation),47:31:00,48:31:00,Not drowsy
+42,Intervention (Automation),48:31:00,49:31:00,Not drowsy
+42,Intervention (Automation),49:31:00,50:31:00,Not drowsy
+42,Intervention (Automation),50:31:00,51:31:00,Not drowsy
+42,Intervention (Automation),51:31:00,52:31:00,Not drowsy
+42,Intervention (Automation),52:31:00,53:31:00,Slightly drowsy
+42,Intervention (Automation),53:31:00,54:31:00,Not drowsy
+42,Post-intervention,54:31:00,55:31:00,Not drowsy
+42,Post-intervention,55:31:00,56:31:00,Slightly drowsy
+42,Post-intervention,56:31:00,57:31:00,Slightly drowsy
+42,Post-intervention,57:31:00,58:31:00,Slightly drowsy
+42,Post-intervention,58:31:00,59:31:00,Slightly drowsy
+42,Post-intervention,59:31:00,60:31:00,Slightly drowsy
+42,Post-intervention,60:31:00,61:31:00,Moderately drowsy
+42,Post-intervention,61:31:00,62:31:00,Slightly drowsy
+42,Post-intervention,62:31:00,63:31:00,Slightly drowsy
+42,Post-intervention,63:31:00,64:31:00,Not Drowsy
+43,Pre-intervention,30:47:00,31:47:00,Moderately drowsy
+43,Pre-intervention,31:47:00,32:47:00,Slightly drowsy
+43,Pre-intervention,32:47:00,33:47:00,Slightly drowsy
+43,Pre-intervention,33:47:00,34:47:00,Slightly drowsy
+43,Pre-intervention,34:47:00,35:47:00,Slightly drowsy
+43,Pre-intervention,35:47:00,36:47:00,Slightly drowsy
+43,Pre-intervention,36:47:00,37:47:00,Slightly drowsy
+43,Pre-intervention,37:47:00,38:47:00,Slightly drowsy
+43,Pre-intervention,38:47:00,39:47:00,Slightly drowsy
+43,Pre-intervention,39:47:00,40:47:00,Slightly drowsy
+43,Intervention (Combination),40:47:00,41:47:00,Not drowsy
+43,Intervention (Combination 2-back),41:47:00,42:47:00,Not drowsy
+43,Intervention (Combination 2-back),42:47:00,43:47:00,Not drowsy
+43,Intervention (Combination 2-back),43:47:00,44:47:00,Not drowsy
+43,Intervention (Combination 2-back),44:47:00,45:47:00,Not drowsy
+43,Intervention (Automation),45:47:00,46:47:00,Slightly drowsy
+43,Intervention (Combination 1-back),46:47:00,47:47:00,Slightly drowsy
+43,Intervention (Combination 1-back),47:47:00,48:47:00,Not drowsy
+43,Intervention (Combination 1-back),48:47:00,49:47:00,Not drowsy
+43,Intervention (Combination 1-back),49:47:00,50:47:00,Not drowsy
+43,Intervention (Automation),50:47:00,51:47:00,Not drowsy
+43,Post-intervention,51:47:00,52:47:00,Not drowsy
+43,Post-intervention,52:47:00,53:47:00,Slightly drowsy
+43,Post-intervention,53:47:00,54:47:00,Slightly drowsy
+43,Post-intervention,54:47:00,55:47:00,Slightly drowsy
+43,Post-intervention,55:47:00,56:47:00,Slightly drowsy
+43,Post-intervention,56:47:00,57:47:00,Slightly drowsy
+43,Post-intervention,57:47:00,58:47:00,Slightly drowsy
+43,Post-intervention,58:47:00,59:47:00,Slightly drowsy
+43,Post-intervention,59:47:00,60:47:00,Slightly drowsy
+43,Post-intervention,60:47:00,61:47:00,Slightly drowsy
+43,Post-intervention,61:47:00,62:47:00,Not drowsy
+44,Pre-intervention,17:25:00,18:25:00,Moderately drowsy
+44,Pre-intervention,18:25:00,19:25:00,Moderately drowsy
+44,Pre-intervention,19:25:00,20:25:00,Moderately drowsy
+44,Pre-intervention,20:25:00,21:25:00,Slightly drowsy
+44,Pre-intervention,21:25:00,22:25:00,Moderately drowsy
+44,Pre-intervention,22:25:00,23:25:00,Moderately drowsy
+44,Pre-intervention,23:25:00,24:25:00,Moderately drowsy
+44,Pre-intervention,24:25:00,25:25:00,Moderately drowsy
+44,Pre-intervention,25:25:00,26:25:00,Moderately drowsy
+44,Pre-intervention,26:25:00,27:25:00,Very drowsy
+44,Intervention (Combination),27:25:00,28:25:00,Slightly drowsy
+44,Intervention (Combination 1-back),28:25:00,29:25:00,Very drowsy
+44,Intervention (Combination 1-back),29:25:00,30:25:00,Extremely drowsy
+44,Intervention (Combination 1-back),30:25:00,31:25:00,Extremely drowsy
+44,Intervention (Combination 1-back),31:25:00,32:25:00,Extremely drowsy
+44,Intervention (Automation),32:25:00,33:25:00,Extremely drowsy
+44,Intervention (Combination 2-back),33:25:00,34:25:00,Very drowsy
+44,Intervention (Combination 2-back),34:25:00,35:25:00,Moderately drowsy
+44,Intervention (Combination 2-back),35:25:00,36:25:00,Slightly drowsy
+44,Intervention (Combination 2-back),36:25:00,37:25:00,Slightly drowsy
+44,Intervention (Automation),37:25:00,38:25:00,Not drowsy
+44,Post-intervention,38:25:00,39:25:00,Slightly drowsy
+44,Post-intervention,39:25:00,40:25:00,Slightly drowsy
+44,Post-intervention,40:25:00,41:25:00,Moderately drowsy
+44,Post-intervention,41:25:00,42:25:00,Moderately drowsy
+44,Post-intervention,42:25:00,43:25:00,Moderately drowsy
+44,Post-intervention,43:25:00,44:25:00,Moderately drowsy
+44,Post-intervention,44:25:00,45:25:00,Moderately drowsy
+44,Post-intervention,45:25:00,46:25:00,Very drowsy
+44,Post-intervention,46:25:00,47:25:00,Moderately drowsy
+44,Post-intervention,47:25:00,48:25:00,Moderately drowsy
+44,Post-intervention,48:25:00,49:25:00,Moderately drowsy
+45,Pre-intervention,30:23:00,31:23:00,Moderately drowsy
+45,Pre-intervention,31:23:00,32:23:00,Moderately drowsy
+45,Pre-intervention,32:23:00,33:23:00,Slightly drowsy
+45,Pre-intervention,33:23:00,34:23:00,Moderately drowsy
+45,Pre-intervention,34:23:00,35:23:00,Slightly drowsy
+45,Pre-intervention,35:23:00,36:23:00,Slightly drowsy
+45,Pre-intervention,36:23:00,37:23:00,Slightly drowsy
+45,Pre-intervention,37:23:00,38:23:00,Slightly drowsy
+45,Pre-intervention,38:23:00,39:23:00,Moderately drowsy
+45,Pre-intervention,39:23:00,40:23:00,Very drowsy
+45,Intervention (Automation),40:23:00,41:23:00,Slightly drowsy
+45,Intervention (Automation),41:23:00,42:23:00,Slightly drowsy
+45,Intervention (Automation),42:23:00,43:23:00,Slightly drowsy
+45,Intervention (Automation),43:23:00,44:23:00,Moderately drowsy
+45,Intervention (Automation),44:23:00,45:23:00,Very drowsy
+45,Intervention (Automation),45:23:00,46:23:00,Very drowsy
+45,Intervention (Automation),46:23:00,47:23:00,Extremely drowsy
+45,Intervention (Automation),47:23:00,48:23:00,Extremely drowsy
+45,Intervention (Automation),48:23:00,49:23:00,Extremely drowsy
+45,Intervention (Automation),49:23:00,50:23:00,Extremely drowsy
+45,Intervention (Automation),50:23:00,51:23:00,Slightly drowsy
+45,Post-intervention,51:23:00,52:23:00,Slightly drowsy
+45,Post-intervention,52:23:00,53:23:00,Not drowsy
+45,Post-intervention,53:23:00,54:23:00,Slightly drowsy
+45,Post-intervention,54:23:00,55:23:00,Not drowsy
+45,Post-intervention,55:23:00,56:23:00,Not drowsy
+45,Post-intervention,56:23:00,57:23:00,Not drowsy
+45,Post-intervention,57:23:00,58:23:00,Not drowsy
+45,Post-intervention,58:23:00,59:23:00,Slightly drowsy
+45,Post-intervention,59:23:00,60:23:00,Slightly drowsy
+45,Post-intervention,60:23:00,61:23:00,Slightly drowsy
+45,Post-intervention,61:23:00,62:23:00,Not drowsy
+46,Pre-intervention,17:42:00,18:42:00,Moderately drowsy
+46,Pre-intervention,18:42:00,19:42:00,Moderately drowsy
+46,Pre-intervention,19:42:00,20:42:00,Moderately drowsy
+46,Pre-intervention,20:42:00,21:42:00,Moderately drowsy
+46,Pre-intervention,21:42:00,22:42:00,Moderately drowsy
+46,Pre-intervention,22:42:00,23:42:00,Moderately drowsy
+46,Pre-intervention,23:42:00,24:42:00,Moderately drowsy
+46,Pre-intervention,24:42:00,25:42:00,Moderately drowsy
+46,Pre-intervention,25:42:00,26:42:00,Slightly drowsy
+46,Pre-intervention,26:42:00,27:42:00,Slightly drowsy
+46,Intervention (Automation),27:42:00,28:42:00,Slightly drowsy
+46,Intervention (Automation),28:42:00,29:42:00,Slightly drowsy
+46,Intervention (Automation),29:42:00,30:42:00,Slightly drowsy
+46,Intervention (Automation),30:42:00,31:42:00,Moderately drowsy
+46,Intervention (Automation),31:42:00,32:42:00,Very drowsy
+46,Intervention (Automation),32:42:00,33:42:00,Very drowsy
+46,Intervention (Automation),33:42:00,34:42:00,Moderately drowsy
+46,Intervention (Automation),34:42:00,35:42:00,Extremely drowsy
+46,Intervention (Automation),35:42:00,36:42:00,Extremely drowsy
+46,Intervention (Automation),36:42:00,37:42:00,Extremely drowsy
+46,Intervention (Automation),37:42:00,38:42:00,Extremely drowsy
+46,Post-intervention,38:42:00,39:42:00,Slightly drowsy
+46,Post-intervention,39:42:00,40:42:00,Not drowsy
+46,Post-intervention,40:42:00,41:42:00,Slightly drowsy
+46,Post-intervention,41:42:00,42:42:00,Slightly drowsy
+46,Post-intervention,42:42:00,43:42:00,Slightly drowsy
+46,Post-intervention,43:42:00,44:42:00,Moderately drowsy
+46,Post-intervention,44:42:00,45:42:00,Slightly drowsy
+46,Post-intervention,45:42:00,46:42:00,Slightly drowsy
+46,Post-intervention,46:42:00,47:42:00,Slightly drowsy
+46,Post-intervention,47:42:00,48:42:00,Slightly drowsy
+46,Pre-intervention,48:42:00,49:42:00,Moderately drowsy
+47,Pre-intervention,60:00:00,61:00:00,Slightly drowsy
+47,Pre-intervention,61:00:00,62:00:00,Slightly drowsy
+47,Pre-intervention,62:00:00,63:00:00,Slightly drowsy
+47,Pre-intervention,63:00:00,64:00:00,Slightly drowsy
+47,Pre-intervention,64:00:00,65:00:00,Slightly drowsy
+47,Pre-intervention,65:00:00,66:00:00,Slightly drowsy
+47,Pre-intervention,66:00:00,67:00:00,Slightly drowsy
+47,Pre-intervention,67:00:00,68:00:00,Slightly drowsy
+47,Pre-intervention,68:00:00,69:00:00,Slightly drowsy
+47,Pre-intervention,69:00:00,70:00:00,Slightly drowsy
+47,Intervention (Automation),70:00:00,71:00:00,Not drowsy
+47,Intervention (Automation),71:00:00,72:00:00,Not drowsy
+47,Intervention (Automation),72:00:00,73:00:00,Not drowsy
+47,Intervention (Automation),73:00:00,74:00:00,Slightly drowsy
+47,Intervention (Automation),74:00:00,75:00:00,Not drowsy
+47,Intervention (Automation),75:00:00,76:00:00,Slightly drowsy
+47,Intervention (Automation),76:00:00,77:00:00,Slightly drowsy
+47,Intervention (Automation),77:00:00,78:00:00,Slightly drowsy
+47,Intervention (Automation),78:00:00,79:00:00,Not drowsy
+47,Intervention (Automation),79:00:00,80:00:00,Not drowsy
+47,Intervention (Automation),80:00:00,81:00:00,Not drowsy
+47,Post-intervention,81:00:00,82:00:00,Not drowsy
+47,Post-intervention,82:00:00,83:00:00,Not drowsy
+47,Post-intervention,83:00:00,84:00:00,Not drowsy
+47,Post-intervention,84:00:00,85:00:00,Not drowsy
+47,Post-intervention,85:00:00,86:00:00,Slightly drowsy
+47,Post-intervention,86:00:00,87:00:00,Not drowsy
+47,Post-intervention,87:00:00,88:00:00,Not drowsy
+47,Post-intervention,88:00:00,89:00:00,Slightly drowsy
+47,Post-intervention,89:00:00,90:00:00,Not drowsy
+47,Post-intervention,90:00:00,91:00:00,Not drowsy
+47,Post-intervention,91:00:00,92:00:00,Not drowsy
+48,Pre-intervention,46:22:00,47:22:00,Slightly drowsy
+48,Pre-intervention,47:22:00,48:22:00,Slightly drowsy
+48,Pre-intervention,48:22:00,49:22:00,Slightly drowsy
+48,Pre-intervention,49:22:00,50:22:00,Slightly drowsy
+48,Pre-intervention,50:22:00,51:22:00,Slightly drowsy
+48,Pre-intervention,51:22:00,52:22:00,Slightly drowsy
+48,Pre-intervention,52:22:00,53:22:00,Slightly drowsy
+48,Pre-intervention,53:22:00,54:22:00,Slightly drowsy
+48,Pre-intervention,54:22:00,55:22:00,Slightly drowsy
+48,Pre-intervention,55:22:00,56:22:00,Slightly drowsy
+48,Intervention (Automation),56:22:00,57:22:00,Slightly drowsy
+48,Intervention (Automation),57:22:00,58:22:00,Slightly drowsy
+48,Intervention (Automation),58:22:00,59:22:00,Not drowsy
+48,Intervention (Automation),59:22:00,60:22:00,Slightly drowsy
+48,Intervention (Automation),60:22:00,61:22:00,Not drowsy
+48,Intervention (Automation),61:22:00,62:22:00,Not drowsy
+48,Intervention (Automation),62:22:00,63:22:00,Slightly drowsy
+48,Intervention (Automation),63:22:00,64:22:00,Slightly drowsy
+48,Intervention (Automation),64:22:00,65:22:00,Slightly drowsy
+48,Intervention (Automation),65:22:00,66:22:00,Slightly drowsy
+48,Intervention (Automation),66:22:00,67:22:00,Moderately drowsy
+48,Post-intervention,67:22:00,68:22:00,Not drowsy
+48,Post-intervention,68:22:00,69:22:00,Not drowsy
+48,Post-intervention,69:22:00,70:22:00,Not drowsy
+48,Post-intervention,70:22:00,71:22:00,Not drowsy
+48,Post-intervention,71:22:00,72:22:00,Not drowsy
+48,Post-intervention,72:22:00,73:22:00,Slightly drowsy
+48,Post-intervention,73:22:00,74:22:00,Slightly drowsy
+48,Post-intervention,74:22:00,75:22:00,Slightly drowsy
+48,Post-intervention,75:22:00,76:22:00,Not drowsy
+48,Post-intervention,76:22:00,77:22:00,Slightly drowsy
+48,Post-intervention,77:22:00,78:22:00,Not drowsy
+49,Pre-intervention,31:16:00,32:16:00,Slightly drowsy
+49,Pre-intervention,32:16:00,33:16:00,Slightly drowsy
+49,Pre-intervention,33:16:00,34:16:00,Moderately drowsy
+49,Pre-intervention,34:16:00,35:16:00,Slightly drowsy
+49,Pre-intervention,35:16:00,36:16:00,Moderately drowsy
+49,Pre-intervention,36:16:00,37:16:00,Moderately drowsy
+49,Pre-intervention,37:16:00,38:16:00,Slightly drowsy
+49,Pre-intervention,38:16:00,39:16:00,Slightly drowsy
+49,Pre-intervention,39:16:00,40:16:00,Moderately drowsy
+49,Pre-intervention,40:16:00,41:16:00,Slightly drowsy
+49,Intervention (n-back),41:16:00,42:16:00,Not drowsy
+49,Intervention (2-back),42:16:00,43:16:00,Slightly drowsy
+49,Intervention (2-back),43:16:00,44:16:00,Not drowsy
+49,Intervention (2-back),44:16:00,45:16:00,Not drowsy
+49,Intervention (2-back),45:16:00,46:16:00,Slightly drowsy
+49,Post-intervention,46:16:00,47:16:00,Slightly drowsy
+49,Intervention (1-back),47:16:00,48:16:00,Slightly drowsy
+49,Intervention (1-back),48:16:00,49:16:00,Slightly drowsy
+49,Intervention (1-back),49:16:00,50:16:00,Slightly drowsy
+49,Intervention (1-back),50:16:00,51:16:00,Slightly drowsy
+49,Post-intervention,51:16:00,52:16:00,Slightly drowsy
+49,Post-intervention,52:16:00,53:16:00,Not drowsy
+49,Post-intervention,53:16:00,54:16:00,Not drowsy
+49,Post-intervention,54:16:00,55:16:00,Slightly drowsy
+49,Post-intervention,55:16:00,56:16:00,Slightly drowsy
+49,Post-intervention,56:16:00,57:16:00,Slightly drowsy
+49,Post-intervention,57:16:00,58:16:00,Slightly drowsy
+49,Post-intervention,58:16:00,59:16:00,Slightly drowsy
+49,Post-intervention,59:16:00,60:16:00,Slightly drowsy
+49,Post-intervention,60:16:00,61:16:00,Slightly drowsy
+49,Post-intervention,61:16:00,62:16:00,Slightly drowsy
+13,,00:01:06,00:02:06,Not drowsy
+13,,00:02:06,00:03:06,Not drowsy
+13,,00:03:06,00:04:06,Not drowsy
+13,,00:04:06,00:05:06,Not drowsy
+13,,00:05:06,00:06:06,Not drowsy
+13,,00:06:06,00:07:06,Not drowsy
+13,,00:07:06,00:08:06,Not drowsy
+13,,00:08:06,00:09:06,Not drowsy
+13,,00:09:06,00:10:06,Not drowsy
+13,,00:10:06,00:11:06,Not drowsy
+13,,00:11:06,00:12:06,Not drowsy
+13,,00:12:06,00:13:06,Not drowsy
+13,,00:13:06,00:14:06,Not drowsy
+13,,00:14:06,00:15:06,Not drowsy
+13,,00:15:06,00:16:06,Not drowsy
+13,,00:16:06,00:17:06,Not drowsy
+13,,00:17:06,00:18:06,Not drowsy
+13,,00:18:06,00:19:06,Not drowsy
+13,,00:19:06,00:20:06,Not drowsy
+13,,00:20:06,00:21:06,Not drowsy
+13,,00:21:06,00:22:06,Not drowsy
+13,,00:22:06,00:23:06,Slightly drowsy
+13,,00:23:06,00:24:06,Slightly drowsy
+13,,00:24:06,00:25:06,Not drowsy
+13,,00:25:06,00:26:06,Not drowsy
+13,,00:26:06,00:27:06,Not drowsy
+13,,00:27:06,00:28:06,Not drowsy
+13,,00:28:06,00:29:06,Not drowsy
+13,,00:29:06,00:30:06,Not drowsy
+13,,00:30:06,00:31:06,Not drowsy
+13,,00:31:06,00:32:06,Not drowsy
+13,,00:32:06,00:33:06,Not drowsy
+13,,00:33:06,00:34:06,Not drowsy
+13,,00:34:06,00:35:06,Not drowsy
+13,,00:35:06,00:36:06,Not drowsy
+13,,00:36:06,00:37:06,Not drowsy
+13,,00:37:06,00:38:06,Not drowsy
+13,,00:38:06,00:39:06,Not drowsy
+13,,00:39:06,00:40:06,Not drowsy
+13,,00:40:06,00:41:06,Not drowsy
+13,,00:41:06,00:42:06,Not drowsy
+13,,00:42:06,00:43:06,Not drowsy
+13,,00:43:06,00:44:06,Not drowsy
+13,,00:44:06,00:45:06,Not drowsy
+13,,00:45:06,00:46:06,Not drowsy
+13,,00:46:06,00:47:06,Not drowsy
+13,,00:47:06,00:48:06,Not drowsy
+13,,00:48:06,00:49:06,Not drowsy
+13,,00:49:06,00:50:06,Not drowsy
+13,,00:50:06,00:51:06,Not drowsy
+13,,00:51:06,00:52:06,Not drowsy
+13,,00:52:06,00:53:06,Not drowsy
+13,,00:53:06,00:54:06,Not drowsy
+13,,00:54:06,00:55:06,Not drowsy
+13,,00:55:06,00:56:06,Not drowsy
+13,,00:56:06,00:57:06,Not drowsy
+13,,00:57:06,00:58:06,Not drowsy
+13,,00:58:06,00:59:06,Not drowsy
+13,,00:59:06,01:00:06,Not drowsy
+15,,00:00:52,00:01:52,Not drowsy
+15,,00:01:52,00:02:52,Not drowsy
+15,,00:02:52,00:03:52,Not drowsy
+15,,00:03:52,00:04:52,Not drowsy
+15,,00:04:52,00:05:52,Not drowsy
+15,,00:05:52,00:06:52,Not drowsy
+15,,00:06:52,00:07:52,Not drowsy
+15,,00:07:52,00:08:52,Not drowsy
+15,,00:08:52,00:09:52,Not drowsy
+15,,00:09:52,00:10:52,Not drowsy
+15,,00:10:52,00:11:52,Slightly drowsy
+15,,00:11:52,00:12:52,Slightly drowsy
+15,,00:12:52,00:13:52,Slightly drowsy
+15,,00:13:52,00:14:52,Slightly drowsy
+15,,00:14:52,00:15:52,Slightly drowsy
+15,,00:15:52,00:16:52,Moderately drowsy
+15,,00:16:52,00:17:52,Moderately drowsy
+15,,00:17:52,00:18:52,Moderately drowsy
+15,,00:18:52,00:19:52,Moderately drowsy
+15,,00:19:52,00:20:52,Slightly drowsy
+15,,00:20:52,00:21:52,Slightly drowsy
+15,,00:21:52,00:22:52,Slightly drowsy
+15,,00:22:52,00:23:52,Slightly drowsy
+15,,00:23:52,00:24:52,Slightly drowsy
+15,,00:24:52,00:25:52,Slightly drowsy
+15,,00:25:52,00:26:52,Slightly drowsy
+15,,00:26:52,00:27:52,Slightly drowsy
+15,,00:27:52,00:28:52,Slightly drowsy
+15,,00:28:52,00:29:52,Slightly drowsy
+15,,00:29:52,00:30:52,Moderately drowsy
+15,,00:30:52,00:31:52,Moderately drowsy
+15,,00:31:52,00:32:52,Slightly drowsy
+18,,00:00:15,00:01:15,Not drowsy
+18,,00:01:15,00:02:15,Not drowsy
+18,,00:02:15,00:03:15,Not drowsy
+18,,00:03:15,00:04:15,Not drowsy
+18,,00:04:15,00:05:15,Not drowsy
+18,,00:05:15,00:06:15,Not drowsy
+18,,00:06:15,00:07:15,Not drowsy
+18,,00:07:15,00:08:15,Not drowsy
+18,,00:08:15,00:09:15,Not drowsy
+18,,00:09:15,00:10:15,Not drowsy
+18,,00:10:15,00:11:15,Not drowsy
+18,,00:11:15,00:12:15,Not drowsy
+18,,00:12:15,00:13:15,Not drowsy
+18,,00:13:15,00:14:15,Not drowsy
+18,,00:14:15,00:15:15,Not drowsy
+18,,00:15:15,00:16:15,Not drowsy
+18,,00:16:15,00:17:15,Not drowsy
+18,,00:21:15,00:22:15,Slightly drowsy
+18,,00:22:15,00:23:15,Slightly drowsy
+18,,00:23:15,00:24:15,Slightly drowsy
+18,,00:24:15,00:25:15,Slightly drowsy
+18,,00:25:15,00:26:15,Slightly drowsy
+18,,00:26:15,00:27:15,Slightly drowsy
+18,,00:27:15,00:28:15,Slightly drowsy
+18,,00:28:15,00:29:15,Slightly drowsy
+18,,00:29:15,00:30:15,Slightly drowsy
+18,,00:30:15,00:31:15,Slightly drowsy
+18,,00:31:15,00:32:15,Slightly drowsy
+18,,00:32:15,00:33:15,Slightly drowsy
+18,,00:33:15,00:34:15,Slightly drowsy
+18,,00:34:15,00:35:15,Slightly drowsy
+18,,00:35:15,00:36:15,Slightly drowsy
+18,,00:36:15,00:37:15,Slightly drowsy
+18,,00:37:15,00:38:15,Slightly drowsy
+18,,00:38:15,00:39:15,Slightly drowsy
+18,,00:39:15,00:40:15,Slightly drowsy
+18,,00:40:15,00:41:15,Slightly drowsy
+18,,00:41:15,00:42:15,Slightly drowsy
+18,,00:42:15,00:43:15,Slightly drowsy
+18,,00:43:15,00:44:15,Slightly drowsy
+18,,00:44:15,00:45:15,Slightly drowsy
+18,,00:45:15,00:46:15,Slightly drowsy
+18,,00:46:15,00:47:15,Slightly drowsy
+18,,00:47:15,00:48:15,Slightly drowsy
+18,,00:48:15,00:49:15,Slightly drowsy
+18,,00:49:15,00:50:15,Slightly drowsy
+18,,00:50:15,00:51:15,Slightly drowsy
+18,,00:51:15,00:52:15,Slightly drowsy
+18,,00:52:15,00:53:15,Slightly drowsy
+18,,00:53:15,00:54:15,Slightly drowsy
+18,,00:54:15,00:55:15,Slightly drowsy
+18,,00:55:15,00:56:15,Slightly drowsy
+18,,00:56:15,00:57:15,Slightly drowsy
+18,,00:57:15,00:58:15,Slightly drowsy
+18,,00:58:15,00:59:15,Slightly drowsy
+18,,00:17:15,00:18:15,Slightly drowsy
+18,,00:18:15,00:19:15,Slightly drowsy
+18,,00:19:15,00:20:15,Slightly drowsy
+18,,00:20:15,00:21:15,Slightly drowsy
+18,,00:59:15,01:00:15,Slightly drowsy
+19,,00:18:06,00:19:06,Not drowsy
+19,,00:52:06,00:53:06,Slightly drowsy
+19,,00:00:06,00:01:06,Not drowsy
+19,,00:01:06,00:02:06,Not drowsy
+19,,00:02:06,00:03:06,Not drowsy
+19,,00:03:06,00:04:06,Not drowsy
+19,,00:04:06,00:05:06,Not drowsy
+19,,00:05:06,00:06:06,Not drowsy
+19,,00:06:06,00:07:06,Not drowsy
+19,,00:07:06,00:08:06,Not drowsy
+19,,00:08:06,00:09:06,Not drowsy
+19,,00:09:06,00:10:06,Not drowsy
+19,,00:10:06,00:11:06,Not drowsy
+19,,00:11:06,00:12:06,Not drowsy
+19,,00:12:06,00:13:06,Not drowsy
+19,,00:13:06,00:14:06,Not drowsy
+19,,00:14:06,00:15:06,Not drowsy
+19,,00:15:06,00:16:06,Not drowsy
+19,,00:16:06,00:17:06,Not drowsy
+19,,00:17:06,00:18:06,Not drowsy
+19,,00:19:06,00:20:06,Not drowsy
+19,,00:20:06,00:21:06,Not drowsy
+19,,00:21:06,00:22:06,Not drowsy
+19,,00:22:06,00:23:06,Not drowsy
+19,,00:23:06,00:24:06,Not drowsy
+19,,00:24:06,00:25:06,Not drowsy
+19,,00:25:06,00:26:06,Not drowsy
+19,,00:26:06,00:27:06,Not drowsy
+19,,00:27:06,00:28:06,Not drowsy
+19,,00:28:06,00:29:06,Not drowsy
+19,,00:29:06,00:30:06,Not drowsy
+19,,00:30:06,00:31:06,Not drowsy
+19,,00:31:06,00:32:06,Not drowsy
+19,,00:32:06,00:33:06,Not drowsy
+19,,00:33:06,00:34:06,Not drowsy
+19,,00:34:06,00:35:06,Not drowsy
+19,,00:35:06,00:36:06,Not drowsy
+19,,00:36:06,00:37:06,Not drowsy
+19,,00:37:06,00:38:06,Not drowsy
+19,,00:38:06,00:39:06,Not drowsy
+19,,00:39:06,00:40:06,Not drowsy
+19,,00:40:06,00:41:06,Not drowsy
+19,,00:41:06,00:42:06,Not drowsy
+19,,00:42:06,00:43:06,Not drowsy
+19,,00:43:06,00:44:06,Not drowsy
+19,,00:44:06,00:45:06,Not drowsy
+19,,00:45:06,00:46:06,Not drowsy
+19,,00:46:06,00:47:06,Not drowsy
+19,,00:47:06,00:48:06,Not drowsy
+19,,00:48:06,00:49:06,Not drowsy
+19,,00:49:06,00:50:06,Not drowsy
+19,,00:50:06,00:51:06,Not drowsy
+19,,00:51:06,00:52:06,Not drowsy
+20,,00:06:13,00:07:13,Slightly drowsy
+20,,00:07:13,00:08:13,Slightly drowsy
+20,,00:00:13,00:01:13,Not drowsy
+20,,00:01:13,00:02:13,Not drowsy
+20,,00:02:13,00:03:13,Not drowsy
+20,,00:03:13,00:04:13,Not drowsy
+20,,00:04:13,00:05:13,Not drowsy
+20,,00:05:13,00:06:13,Not drowsy
+20,,00:08:13,00:09:13,Not drowsy
+20,,00:09:13,00:10:13,Not drowsy
+20,,00:10:13,00:11:13,Slightly drowsy
+20,,00:11:13,00:12:13,Not drowsy
+20,,00:12:13,00:13:13,Not drowsy
+20,,00:13:13,00:14:13,Not drowsy
+26,,00:00:15,00:01:15,Not drowsy
+26,,00:01:15,00:02:15,Not drowsy
+26,,00:02:15,00:03:15,Not drowsy
+26,,00:03:15,00:04:15,Not drowsy
+26,,00:04:15,00:05:15,Not drowsy
+26,,00:05:15,00:06:15,Not drowsy
+26,,00:06:15,00:07:15,Not drowsy
+26,,00:07:15,00:08:15,Not drowsy
+26,,00:08:15,00:09:15,Not drowsy
+26,,00:09:15,00:10:15,Not drowsy
+26,,00:10:15,00:11:15,Not drowsy
+26,,00:11:15,00:12:15,Not drowsy
+26,,00:12:15,00:13:15,Not drowsy
+26,,00:13:15,00:14:15,Not drowsy
+26,,00:14:15,00:15:15,Not drowsy
+26,,00:15:15,00:16:15,Not drowsy
+26,,00:16:15,00:17:15,Not drowsy
+26,,00:17:15,00:18:15,Not drowsy
+26,,00:18:15,00:19:15,Not drowsy
+26,,00:19:15,00:20:15,Not drowsy
+26,,00:20:15,00:21:15,Slightly drowsy
+26,,00:21:15,00:22:15,Slightly drowsy
+26,,00:22:15,00:23:15,Slightly drowsy
+26,,00:23:15,00:24:15,Slightly drowsy
+26,,00:24:15,00:25:15,Slightly drowsy
+26,,00:25:15,00:26:15,Slightly drowsy
+26,,00:26:15,00:27:15,Slightly drowsy
+26,,00:27:15,00:28:15,Slightly drowsy
+26,,00:28:15,00:29:15,Slightly drowsy
+26,,00:29:15,00:30:15,Slightly drowsy
+26,,00:30:15,00:31:15,Slightly drowsy
+26,,00:31:15,00:32:15,Slightly drowsy
+26,,00:32:15,00:33:15,Slightly drowsy
+26,,00:33:15,00:34:15,Slightly drowsy
+26,,00:34:15,00:35:15,Slightly drowsy
+26,,00:35:15,00:36:15,Slightly drowsy
+26,,00:36:15,00:37:15,Slightly drowsy
+26,,00:37:15,00:38:15,Slightly drowsy
+26,,00:38:15,00:39:15,Slightly drowsy
+26,,00:39:15,00:40:15,Slightly drowsy
+26,,00:40:15,00:41:15,Slightly drowsy
+26,,00:41:15,00:42:15,Slightly drowsy
+26,,00:42:15,00:43:15,Slightly drowsy
+26,,00:43:15,00:44:15,Slightly drowsy
+26,,00:44:15,00:45:15,Slightly drowsy
+26,,00:45:15,00:46:15,Slightly drowsy
+26,,00:46:15,00:47:15,Slightly drowsy
+26,,00:47:15,00:48:15,Slightly drowsy
+26,,00:48:15,00:49:15,Slightly drowsy
+26,,00:49:15,00:50:15,Slightly drowsy
+26,,00:50:15,00:51:15,Slightly drowsy
+26,,00:51:15,00:52:15,Slightly drowsy
+27,,00:00:45,00:01:45,Not drowsy
+27,,00:01:45,00:02:45,Not drowsy
+27,,00:02:45,00:03:45,Not drowsy
+27,,00:03:45,00:04:45,Not drowsy
+27,,00:04:45,00:05:45,Not drowsy
+27,,00:05:45,00:06:45,Slightly drowsy
+27,,00:06:45,00:07:45,Slightly drowsy
+27,,00:07:45,00:08:45,Slightly drowsy
+27,,00:08:45,00:09:45,Slightly drowsy
+27,,00:09:45,00:10:45,Slightly drowsy
+27,,00:10:45,00:11:45,Slightly drowsy
+27,,00:11:45,00:12:45,Slightly drowsy
+27,,00:12:45,00:13:45,Slightly drowsy
+27,,00:13:45,00:14:45,Moderately drowsy
+27,,00:14:45,00:15:45,Slightly drowsy
+27,,00:15:45,00:16:45,Slightly drowsy
+27,,00:16:45,00:17:45,Slightly drowsy
+27,,00:17:45,00:18:45,Slightly drowsy
+27,,00:18:45,00:19:45,Slightly drowsy
+27,,00:19:45,00:20:45,Slightly drowsy
+27,,00:20:45,00:21:45,Slightly drowsy
+27,,00:21:45,00:22:45,Slightly drowsy
+27,,00:22:45,00:23:45,Slightly drowsy
+27,,00:23:45,00:24:45,Moderately drowsy
+27,,00:24:45,00:25:45,Slightly drowsy
+27,,00:25:45,00:26:45,Slightly drowsy
+27,,00:26:45,00:27:45,Moderately drowsy
+27,,00:27:45,00:28:45,Slightly drowsy
+27,,00:28:45,00:29:45,Slightly drowsy
+27,,00:29:45,00:30:45,Moderately drowsy
+28,,00:00:03,00:01:03,Not drowsy
+28,,00:01:03,00:02:03,Not drowsy
+28,,00:02:03,00:03:03,Not drowsy
+28,,00:03:03,00:04:03,Not drowsy
+28,,00:04:03,00:05:03,Not drowsy
+28,,00:05:03,00:06:03,Not drowsy
+28,,00:06:03,00:07:03,Slightly drowsy
+28,,00:07:03,00:08:03,Slightly drowsy
+28,,00:08:03,00:09:03,Slightly drowsy
+28,,00:09:03,00:10:03,Slightly drowsy
+28,,00:10:03,00:11:03,Slightly drowsy
+28,,00:11:03,00:12:03,Slightly drowsy
+28,,00:12:03,00:13:03,Slightly drowsy
+28,,00:13:03,00:14:03,Slightly drowsy
+28,,00:14:03,00:15:03,Slightly drowsy
+28,,00:15:03,00:16:03,Slightly drowsy
+28,,00:16:03,00:17:03,Slightly drowsy
+28,,00:17:03,00:18:03,Slightly drowsy
+28,,00:18:03,00:19:03,Slightly drowsy
+28,,00:19:03,00:20:03,Slightly drowsy
+28,,00:20:03,00:21:03,Slightly drowsy
+28,,00:21:03,00:22:03,Slightly drowsy
+28,,00:22:03,00:23:03,Slightly drowsy
+28,,00:23:03,00:24:03,Moderately drowsy
+28,,00:24:03,00:25:03,Moderately drowsy
+28,,00:25:03,00:26:03,Moderately drowsy
+28,,00:26:03,00:27:03,Moderately drowsy
+28,,00:27:03,00:28:03,Moderately drowsy
+28,,00:28:03,00:29:03,Moderately drowsy
+28,,00:29:03,00:30:03,Moderately drowsy
+28,,00:30:03,00:31:03,Moderately drowsy
+28,,00:31:03,00:32:03,Moderately drowsy
+28,,00:32:03,00:33:03,Moderately drowsy
+28,,00:33:03,00:34:03,Moderately drowsy
+37,,00:00:01,00:01:03,Not Drowsy
+37,,00:01:01,00:02:03,Not Drowsy
+37,,00:02:01,00:03:03,Not Drowsy
+37,,00:03:01,00:04:03,Not Drowsy
+37,,00:04:01,00:05:03,Not Drowsy
+37,,00:05:01,00:06:03,Not Drowsy
+37,,00:06:01,00:07:03,Not Drowsy
+37,,00:07:01,00:08:03,Not Drowsy
+37,,00:08:01,00:09:03,Not Drowsy
+37,,00:09:01,00:10:03,Not Drowsy
+37,,00:10:01,00:11:03,Not Drowsy
+37,,00:11:01,00:12:03,Not Drowsy
+37,,00:12:01,00:13:03,Not Drowsy
+37,,00:13:01,00:14:03,Not Drowsy
+37,,00:14:01,00:15:03,Not Drowsy
+37,,00:15:01,00:16:03,Not Drowsy
+37,,00:16:01,00:17:03,Not Drowsy
+37,,00:17:01,00:18:03,Not Drowsy
+37,,00:18:01,00:19:03,Not Drowsy
+37,,00:19:01,00:20:03,Not Drowsy
+37,,00:20:01,00:21:03,Not Drowsy
+37,,00:21:01,00:22:03,Not Drowsy
+37,,00:22:01,00:23:03,Not Drowsy
+37,,00:23:01,00:24:03,Not Drowsy
+37,,00:24:01,00:25:03,Not Drowsy
+37,,00:25:01,00:26:03,Not Drowsy
+37,,00:26:01,00:27:03,Not Drowsy
+37,,00:27:01,00:28:03,Not Drowsy
+37,,00:28:01,00:29:03,Not Drowsy
+37,,00:29:01,00:30:03,Not Drowsy
+37,,00:30:01,00:31:03,Not Drowsy
+37,,00:31:01,00:32:03,Not Drowsy
+37,,00:32:01,00:33:03,Not Drowsy
+37,,00:33:01,00:34:03,Not Drowsy
+37,,00:34:01,00:35:01,Not Drowsy
+37,,00:35:01,00:36:01,Not Drowsy
+37,,00:36:01,00:37:01,Not Drowsy
+37,,00:37:01,00:38:01,Slightly Drowsy
+37,,00:38:01,00:39:01,Slightly Drowsy
+37,,00:39:01,00:40:01,Slightly Drowsy
+37,,00:40:01,00:41:01,Slightly Drowsy
+37,,00:41:01,00:42:01,Slightly Drowsy
+37,,00:42:01,00:43:01,Slightly Drowsy
+37,,00:43:01,00:44:01,Slightly Drowsy
+37,,00:44:01,00:45:01,Moderately Drowsy
+37,,00:45:01,00:46:01,Slightly Drowsy
+37,,00:46:01,00:47:01,Slightly Drowsy
+37,,00:47:01,00:48:01,Slightly Drowsy
+37,,00:48:01,00:49:01,Slightly Drowsy
+37,,00:49:01,00:50:01,Moderately Drowsy
+37,,00:50:01,00:51:01,Moderately Drowsy
+38,,00:00:18,00:01:18,Not Drowsy
+38,,00:01:18,00:02:18,Not Drowsy
+38,,00:02:18,00:03:18,Not Drowsy
+38,,00:03:18,00:04:18,Not Drowsy
+38,,00:04:18,00:05:18,Not Drowsy
+38,,00:05:18,00:06:18,Not Drowsy
+38,,00:06:18,00:07:18,Not Drowsy
+38,,00:07:18,00:08:18,Not Drowsy
+38,,00:08:18,00:09:18,Not Drowsy
+38,,00:09:18,00:10:18,Not Drowsy
+38,,00:10:18,00:11:18,Not Drowsy
+38,,00:11:18,00:12:18,Not Drowsy
+38,,00:12:18,00:13:18,Not Drowsy
+38,,00:13:18,00:14:18,Slightly Drowsy
+38,,00:14:18,00:15:18,Slightly Drowsy
+38,,00:15:18,00:16:18,Slightly Drowsy
+38,,00:16:18,00:17:18,Slightly Drowsy
+38,,00:17:18,00:18:18,Slightly Drowsy
+38,,00:18:18,00:19:18,Slightly Drowsy
+38,,00:19:18,00:20:18,Slightly Drowsy
+38,,00:20:18,00:21:18,Slightly Drowsy
+38,,00:21:18,00:22:18,Slightly Drowsy
+38,,00:22:18,00:23:18,Moderately Drowsy
+38,,00:23:18,00:24:18,Slightly Drowsy
+38,,00:24:18,00:25:18,Slightly Drowsy
+38,,00:25:18,00:26:18,Slightly Drowsy
+38,,00:26:18,00:27:18,Slightly Drowsy
+38,,00:27:18,00:28:18,Slightly Drowsy
+38,,00:28:18,00:29:18,Slightly Drowsy
+38,,00:29:18,00:30:18,Slightly Drowsy
+38,,00:30:18,00:31:18,Moderately Drowsy
+39,,00:00:52,00:01:52,Not Drowsy
+39,,00:01:52,00:02:52,Not Drowsy
+39,,00:02:52,00:03:52,Not Drowsy
+39,,00:03:52,00:04:52,Not Drowsy
+39,,00:04:52,00:05:52,Not Drowsy
+39,,00:05:52,00:06:52,Not Drowsy
+39,,00:06:52,00:07:52,Not Drowsy
+39,,00:07:52,00:08:52,Not Drowsy
+39,,00:08:52,00:09:52,Not Drowsy
+39,,00:09:52,00:10:52,Not Drowsy
+39,,00:10:52,00:11:52,Not Drowsy
+39,,00:11:52,00:12:52,Not Drowsy
+39,,00:12:52,00:13:52,Not Drowsy
+39,,00:13:52,00:14:52,Not Drowsy
+39,,00:14:52,00:15:52,Not Drowsy
+39,,00:15:52,00:16:52,Not Drowsy
+39,,00:16:52,00:17:52,Not Drowsy
+39,,00:17:52,00:18:52,Not Drowsy
+39,,00:18:52,00:19:52,Not Drowsy
+39,,00:19:52,00:20:52,Not Drowsy
+39,,00:20:52,00:21:52,Not Drowsy
+39,,00:21:52,00:22:52,Not Drowsy
+39,,00:22:52,00:23:52,Not Drowsy
+39,,00:23:52,00:24:52,Not Drowsy
+39,,00:24:52,00:25:52,Not Drowsy
+39,,00:25:52,00:26:52,Not Drowsy
+39,,00:26:52,00:27:52,Not Drowsy
+39,,00:27:52,00:28:52,Not Drowsy
+39,,00:28:52,00:29:52,Not Drowsy
+39,,00:29:52,00:30:52,Not Drowsy
+39,,00:30:52,00:31:52,Not Drowsy
+40,,00:00:55,00:01:55,Not Drowsy
+40,,00:01:55,00:02:55,Not Drowsy
+40,,00:02:55,00:03:55,Not Drowsy
+40,,00:03:55,00:04:55,Not Drowsy
+40,,00:04:55,00:05:55,Not Drowsy
+40,,00:05:55,00:06:55,Not Drowsy
+40,,00:06:55,00:07:55,Not Drowsy
+40,,00:07:55,00:08:55,Not Drowsy
+40,,00:08:55,00:09:55,Not Drowsy
+40,,00:09:55,00:10:55,Not Drowsy
+40,,00:10:55,00:11:55,Slightly Drowsy
+40,,00:11:55,00:12:55,Not Drowsy
+40,,00:12:55,00:13:55,Not Drowsy
+40,,00:13:55,00:14:55,Not Drowsy
+40,,00:14:55,00:15:55,Not Drowsy
+40,,00:15:55,00:16:55,Slightly Drowsy
+40,,00:16:55,00:17:55,Slightly Drowsy
+40,,00:17:55,00:18:55,Slightly Drowsy
+40,,00:18:55,00:19:55,Slightly Drowsy
+40,,00:19:55,00:20:55,Slightly Drowsy
+40,,00:20:55,00:21:55,Slightly Drowsy
+40,,00:21:55,00:22:55,Slightly Drowsy
+40,,00:22:55,00:23:55,Slightly Drowsy
+40,,00:23:55,00:24:55,Slightly Drowsy
+40,,00:24:55,00:25:55,Slightly Drowsy
+40,,00:25:55,00:26:55,Slightly Drowsy
+40,,00:26:55,00:27:55,Slightly Drowsy
+40,,00:27:55,00:28:55,Slightly Drowsy
+40,,00:28:55,00:29:55,Slightly Drowsy
+40,,00:29:55,00:30:55,Slightly Drowsy
+40,,00:30:55,00:31:55,Slightly Drowsy
+40,,00:31:55,00:32:55,Slightly Drowsy
+40,,00:32:55,00:33:55,Slightly Drowsy
+40,,00:33:55,00:34:55,Slightly Drowsy
+40,,00:34:55,00:35:55,Slightly Drowsy
+40,,00:35:55,00:36:55,Slightly Drowsy
+41,,00:00:28,00:01:28,Not Drowsy
+41,,00:01:28,00:02:28,Not Drowsy
+41,,00:02:28,00:03:28,Not Drowsy
+41,,00:03:28,00:04:28,Not Drowsy
+41,,00:04:28,00:05:28,Not Drowsy
+41,,00:05:28,00:06:28,Not Drowsy
+41,,00:06:28,00:07:28,Not Drowsy
+41,,00:07:28,00:08:28,Not Drowsy
+41,,00:08:28,00:09:28,Slightly Drowsy
+41,,00:09:28,00:10:28,Slightly Drowsy
+41,,00:10:28,00:11:28,Moderately Drowsy
+41,,00:11:28,00:12:28,Moderately Drowsy
+41,,00:12:28,00:13:28,Moderately Drowsy
+41,,00:13:28,00:14:28,Very Drowsy
+41,,00:14:28,00:15:28,Very Drowsy
+41,,00:15:28,00:16:28,Slightly Drowsy
+42,,00:00:31,00:01:31,Not Drowsy
+42,,00:01:31,00:02:31,Not Drowsy
+42,,00:02:31,00:03:31,Not Drowsy
+42,,00:03:31,00:04:31,Not Drowsy
+42,,00:04:31,00:05:31,Not Drowsy
+42,,00:05:31,00:06:31,Not Drowsy
+42,,00:06:31,00:07:31,Not Drowsy
+42,,00:07:31,00:08:31,Not Drowsy
+42,,00:08:31,00:09:31,Not Drowsy
+42,,00:09:31,00:10:31,Not Drowsy
+42,,00:10:31,00:11:31,Not Drowsy
+42,,00:11:31,00:12:31,Not Drowsy
+42,,00:12:31,00:13:31,Not Drowsy
+42,,00:13:31,00:14:31,Not Drowsy
+42,,00:14:31,00:15:31,Not Drowsy
+42,,00:15:31,00:16:31,Not Drowsy
+42,,00:16:31,00:17:31,Not Drowsy
+42,,00:17:31,00:18:31,Slightly Drowsy
+42,,00:18:31,00:19:31,Slightly Drowsy
+42,,00:19:31,00:20:31,Slightly Drowsy
+42,,00:20:31,00:21:31,Not Drowsy
+42,,00:21:31,00:22:31,Slightly Drowsy
+42,,00:22:31,00:23:31,Slightly Drowsy
+42,,00:23:31,00:24:31,Slightly Drowsy
+42,,00:24:31,00:25:31,Slightly Drowsy
+42,,00:25:31,00:26:31,Slightly Drowsy
+42,,00:26:31,00:27:31,Slightly Drowsy
+42,,00:27:31,00:28:31,Slightly Drowsy
+42,,00:28:31,00:29:31,Slightly Drowsy
+42,,00:29:31,00:30:31,Slightly Drowsy
+42,,00:30:31,00:31:31,Moderately Drowsy
+42,,00:31:31,00:32:31,Moderately Drowsy
+43,,00:00:47,00:01:47,Not Drowsy
+43,,00:01:47,00:02:47,Not Drowsy
+43,,00:02:47,00:03:47,Not Drowsy
+43,,00:03:47,00:04:47,Not Drowsy
+43,,00:04:47,00:05:47,Not Drowsy
+43,,00:05:47,00:06:47,Not Drowsy
+43,,00:06:47,00:07:47,Not Drowsy
+43,,00:07:47,00:08:47,Not Drowsy
+43,,00:08:47,00:09:47,Not Drowsy
+43,,00:09:47,00:10:47,Not Drowsy
+43,,00:10:47,00:11:47,Not Drowsy
+43,,00:11:47,00:12:47,Not Drowsy
+43,,00:12:47,00:13:47,Not Drowsy
+43,,00:13:47,00:14:47,Slightly Drowsy
+43,,00:14:47,00:15:47,Not Drowsy
+43,,00:15:47,00:16:47,Not Drowsy
+43,,00:16:47,00:17:47,Not Drowsy
+43,,00:17:47,00:18:47,Not Drowsy
+43,,00:18:47,00:19:47,Not Drowsy
+43,,00:19:47,00:20:47,Not Drowsy
+43,,00:20:47,00:21:47,Not Drowsy
+43,,00:21:47,00:22:47,Not Drowsy
+43,,00:22:47,00:23:47,Not Drowsy
+43,,00:23:47,00:24:47,Not Drowsy
+43,,00:24:47,00:25:47,Not Drowsy
+43,,00:25:47,00:26:47,Not Drowsy
+43,,00:26:47,00:27:47,Not Drowsy
+43,,00:27:47,00:28:47,Not Drowsy
+43,,00:28:47,00:29:47,Slightly Drowsy
+43,,00:29:47,00:30:47,Slightly Drowsy
+44,,00:00:25,00:01:25,Slightly Drowsy
+44,,00:01:25,00:02:25,Moderately Drowsy
+44,,00:02:25,00:03:25,Slightly Drowsy
+44,,00:03:25,00:04:25,Slightly Drowsy
+44,,00:04:25,00:05:25,Moderately Drowsy
+44,,00:05:25,00:06:25,Slightly Drowsy
+44,,00:06:25,00:07:25,Slightly Drowsy
+44,,00:07:25,00:08:25,Moderately Drowsy
+44,,00:08:25,00:09:25,Slightly Drowsy
+44,,00:09:25,00:10:25,Slightly Drowsy
+44,,00:10:25,00:11:25,Moderately Drowsy
+44,,00:11:25,00:12:25,Moderately Drowsy
+44,,00:12:25,00:13:25,Moderately Drowsy
+44,,00:13:25,00:14:25,Very Drowsy
+44,,00:14:25,00:15:25,Slightly Drowsy
+44,,00:15:25,00:16:25,Moderately Drowsy
+44,,00:16:25,00:17:25,Slightly Drowsy
+45,,00:00:23,00:01:23,Not Drowsy
+45,,00:01:23,00:02:23,Not Drowsy
+45,,00:02:23,00:03:23,Not Drowsy
+45,,00:03:23,00:04:23,Not Drowsy
+45,,00:04:23,00:05:23,Slightly Drowsy
+45,,00:05:23,00:06:23,Slightly Drowsy
+45,,00:06:23,00:07:23,Not Drowsy
+45,,00:07:23,00:08:23,Not Drowsy
+45,,00:08:23,00:09:23,Slightly Drowsy
+45,,00:09:23,00:10:23,Slightly Drowsy
+45,,00:10:23,00:11:23,Slightly Drowsy
+45,,00:11:23,00:12:23,Slightly Drowsy
+45,,00:12:23,00:13:23,Moderately Drowsy
+45,,00:13:23,00:14:23,Moderately Drowsy
+45,,00:14:23,00:15:23,Moderately Drowsy
+45,,00:15:23,00:16:23,Moderately Drowsy
+45,,00:16:23,00:17:23,Moderately Drowsy
+45,,00:17:23,00:18:23,Moderately Drowsy
+45,,00:18:23,00:19:23,Moderately Drowsy
+45,,00:19:23,00:20:23,Slightly Drowsy
+45,,00:20:23,00:21:23,Moderately Drowsy
+45,,00:21:23,00:22:23,Moderately Drowsy
+45,,00:22:23,00:23:23,Moderately Drowsy
+45,,00:23:23,00:24:23,Moderately Drowsy
+45,,00:24:23,00:25:23,Moderately Drowsy
+45,,00:25:23,00:26:23,Moderately Drowsy
+45,,00:26:23,00:27:23,Moderately Drowsy
+45,,00:27:23,00:28:23,Moderately Drowsy
+45,,00:28:23,00:29:23,Moderately Drowsy
+45,,00:29:23,00:30:23,Moderately Drowsy
+46,,00:00:42,00:01:42,Not Drowsy
+46,,00:01:42,00:02:42,Not Drowsy
+46,,00:02:42,00:03:42,Not Drowsy
+46,,00:03:42,00:04:42,Not Drowsy
+46,,00:04:42,00:05:42,Slightly Drowsy
+46,,00:05:42,00:06:42,Slightly Drowsy
+46,,00:06:42,00:07:42,Slightly Drowsy
+46,,00:07:42,00:08:42,Moderately Drowsy
+46,,00:08:42,00:09:42,Slightly Drowsy
+46,,00:09:42,00:10:42,Slightly Drowsy
+46,,00:10:42,00:11:42,Slightly Drowsy
+46,,00:11:42,00:12:42,Moderately Drowsy
+46,,00:12:42,00:13:42,Moderately Drowsy
+46,,00:13:42,00:14:42,Moderately Drowsy
+46,,00:14:42,00:15:42,Moderately Drowsy
+46,,00:15:42,00:16:42,Moderately Drowsy
+46,,00:16:42,00:17:42,Moderately Drowsy
+48,,00:00:22,00:01:22,Not Drowsy
+48,,00:01:22,00:02:22,Not Drowsy
+48,,00:02:22,00:03:22,Not Drowsy
+48,,00:03:22,00:04:22,Not Drowsy
+48,,00:04:22,00:05:22,Not Drowsy
+48,,00:05:22,00:06:02,Not Drowsy
+48,,00:06:02,00:07:22,Not Drowsy
+48,,00:07:22,00:08:22,Not Drowsy
+48,,00:08:22,00:09:22,Not Drowsy
+48,,00:09:22,00:10:22,Slightly Drowsy
+48,,00:10:22,00:11:22,Slightly Drowsy
+48,,00:11:22,00:12:22,Slightly Drowsy
+48,,00:12:22,00:13:22,Slightly Drowsy
+48,,00:13:22,00:14:22,Slightly Drowsy
+48,,00:14:22,00:15:22,Slightly Drowsy
+48,,00:15:22,00:16:22,Slightly Drowsy
+48,,00:16:22,00:17:22,Slightly Drowsy
+48,,00:17:22,00:18:22,Not Drowsy
+48,,00:18:22,00:19:22,Not Drowsy
+48,,00:19:22,00:20:22,Not Drowsy
+48,,00:20:22,00:21:22,Slightly Drowsy
+48,,00:21:22,00:22:22,Slightly Drowsy
+48,,00:22:22,00:23:22,Slightly Drowsy
+48,,00:23:22,00:24:02,Slightly Drowsy
+48,,00:24:02,00:25:22,Slightly Drowsy
+48,,00:25:22,00:26:22,Slightly Drowsy
+48,,00:26:22,00:27:22,Slightly Drowsy
+48,,00:27:22,00:28:22,Slightly Drowsy
+48,,00:28:22,00:29:22,Slightly Drowsy
+48,,00:29:22,00:30:22,Slightly Drowsy
+48,,00:30:22,00:31:22,Slightly Drowsy
+48,,00:31:22,00:32:22,Slightly Drowsy
+48,,00:32:22,00:33:22,Slightly Drowsy
+48,,00:33:22,00:34:22,Slightly Drowsy
+48,,00:34:22,00:35:22,Slightly Drowsy
+48,,00:35:22,00:36:22,Moderately Drowsy
+48,,00:36:22,00:37:22,Slightly Drowsy
+48,,00:37:22,00:38:22,Slightly Drowsy
+48,,00:38:22,00:39:22,Slightly Drowsy
+48,,00:39:22,00:40:22,Slightly Drowsy
+48,,00:40:22,00:41:22,Slightly Drowsy
+48,,00:41:22,00:42:22,Slightly Drowsy
+48,,00:42:22,00:43:22,Slightly Drowsy
+48,,00:43:22,00:44:22,Moderately Drowsy
+48,,00:44:22,00:45:22,Moderately Drowsy
+48,,00:45:22,00:46:22,Moderately Drowsy
+49,,00:00:16,00:01:16,Not Drowsy
+49,,00:01:16,00:02:16,Not Drowsy
+49,,00:02:16,00:03:16,Not Drowsy
+49,,00:03:16,00:04:16,Not Drowsy
+49,,00:04:16,00:05:16,Not Drowsy
+49,,00:05:16,00:06:16,Not Drowsy
+49,,00:06:16,00:07:16,Not Drowsy
+49,,00:07:16,00:08:18,Not Drowsy
+49,,00:08:18,00:09:16,Slightly Drowsy
+49,,00:09:16,00:10:16,Slightly Drowsy
+49,,00:10:16,00:11:16,Slightly Drowsy
+49,,00:11:16,00:12:16,Slightly Drowsy
+49,,00:12:16,00:13:16,Slightly Drowsy
+49,,00:13:16,00:14:16,Slightly Drowsy
+49,,00:14:16,00:15:16,Slightly Drowsy
+49,,00:15:16,00:16:16,Moderately Drowsy
+49,,00:16:16,00:17:16,Slightly Drowsy
+49,,00:17:16,00:18:16,Slightly Drowsy
+49,,00:18:16,00:19:16,Slightly Drowsy
+49,,00:19:16,00:20:16,Moderately Drowsy
+49,,00:20:16,00:21:16,Not Drowsy
+49,,00:21:16,00:22:16,Moderately Drowsy
+49,,00:22:16,00:23:16,Moderately Drowsy
+49,,00:23:16,00:24:16,Moderately Drowsy
+49,,00:24:16,00:25:16,Slightly Drowsy
+49,,00:25:16,00:26:16,Moderately Drowsy
+49,,00:26:16,00:27:16,Moderately Drowsy
+49,,00:27:16,00:28:16,Moderately Drowsy
+49,,00:28:16,00:29:16,Moderately Drowsy
+49,,00:29:16,00:30:16,Moderately Drowsy
+49,,00:30:16,00:31:16,Moderately Drowsy
+24,,00:00:15,00:01:15,Not drowsy
+24,,00:01:15,00:02:15,Not drowsy
+24,,00:02:15,00:03:15,Not drowsy
+24,,00:03:15,00:04:15,Not drowsy
+24,,00:04:15,00:05:15,Not drowsy
+24,,00:05:15,00:06:15,Not drowsy
+24,,00:06:15,00:07:15,Not drowsy
+24,,00:07:15,00:08:15,Not drowsy
+24,,00:08:15,00:09:15,Not drowsy
+24,,00:09:15,00:10:15,Not drowsy
+24,,00:10:15,00:11:15,Not drowsy
+24,,00:11:15,00:12:15,Not drowsy
+24,,00:12:15,00:13:15,Not drowsy
+24,,00:13:15,00:14:15,Not drowsy
+24,,00:14:15,00:15:15,Not drowsy
+24,,00:15:15,00:16:15,Not drowsy
+24,,00:16:15,00:17:15,Not drowsy
+24,,00:17:15,00:18:15,Not drowsy
+24,,00:18:15,00:19:15,Not drowsy
+24,,00:19:15,00:20:15,Not drowsy
+24,,00:20:15,00:21:15,Not drowsy
+24,,00:21:15,00:22:15,Slightly drowsy
+24,,00:22:15,00:23:15,Slightly drowsy
+24,,00:23:15,00:24:15,Slightly drowsy
+24,,00:24:15,00:25:15,Slightly drowsy
+24,,00:25:15,00:26:15,Slightly drowsy
+24,,00:26:15,00:27:15,Slightly drowsy
+24,,00:27:15,00:28:15,Slightly drowsy
+24,,00:28:15,00:29:15,Slightly drowsy
+24,,00:29:15,00:30:15,Slightly drowsy
+24,,00:30:15,00:31:15,Slightly drowsy
+24,,00:31:15,00:32:15,Slightly drowsy
+24,,00:32:15,00:33:15,Slightly drowsy
+24,,00:33:15,00:34:15,Slightly drowsy
+24,,00:34:15,00:35:15,Slightly drowsy
+24,,00:35:15,00:36:15,Slightly drowsy
+24,,00:36:15,00:37:15,Slightly drowsy
+24,,00:37:15,00:38:15,Slightly drowsy
+24,,00:38:15,00:39:15,Slightly drowsy
+24,,00:39:15,00:40:15,Slightly drowsy
+24,,00:40:15,00:41:15,Slightly drowsy
+24,,00:41:15,00:42:15,Slightly drowsy
+24,,00:42:15,00:43:15,Slightly drowsy
+24,,00:43:15,00:44:15,Slightly drowsy
+24,,00:44:15,00:45:15,Slightly drowsy
+24,,00:45:15,00:46:15,Slightly drowsy
+24,,00:46:15,00:47:15,Slightly drowsy
+24,,00:47:15,00:48:15,Slightly drowsy
+24,,00:48:15,00:49:15,Slightly drowsy
+24,,00:49:15,00:50:15,Slightly drowsy
+24,,00:50:15,00:51:15,Slightly drowsy
+24,,00:51:15,00:52:15,Slightly drowsy
+24,,00:52:15,00:53:15,Slightly drowsy
+24,,00:53:15,00:54:15,Slightly drowsy
+24,,00:54:15,00:55:15,Slightly drowsy
+24,,00:55:15,00:56:15,Slightly drowsy
+24,,00:56:15,00:57:15,Slightly drowsy
+24,,00:57:15,00:58:15,Slightly drowsy
+24,,00:58:15,00:59:15,Slightly drowsy
+24,,00:59:15,01:00:15,Slightly drowsy
+17,,00:00:48,00:01:48,Not drowsy
+17,,00:01:48,00:02:48,Not drowsy
+17,,00:02:48,00:03:48,Not drowsy
+17,,00:03:48,00:04:48,Not drowsy
+17,,00:04:48,00:05:48,Not drowsy
+17,,00:05:48,00:06:48,Not drowsy
+17,,00:06:48,00:07:48,Not drowsy
+17,,00:07:48,00:08:48,Not drowsy
+17,,00:10:48,00:11:48,Not drowsy
+17,,00:08:48,00:09:48,Slightly drowsy
+17,,00:09:48,00:10:48,Slightly drowsy
+17,,00:11:48,00:12:48,Slightly drowsy
+17,,00:12:48,00:13:48,Slightly drowsy
+17,,00:13:48,00:14:48,Slightly drowsy
+17,,00:14:48,00:15:48,Slightly drowsy
+17,,00:15:48,00:16:48,Slightly drowsy
+17,,00:16:48,00:17:48,Slightly drowsy
+17,,00:17:48,00:18:48,Slightly drowsy
+17,,00:18:48,00:19:48,Slightly drowsy
+17,,00:19:48,00:20:48,Slightly drowsy
+17,,00:20:48,00:21:48,Slightly drowsy
+17,,00:21:48,00:22:48,Slightly drowsy
+17,,00:22:48,00:23:48,Slightly drowsy
+17,,00:23:48,00:24:48,Slightly drowsy
+17,,00:24:48,00:25:48,Slightly drowsy
+17,,00:25:48,00:26:48,Slightly drowsy
+17,,00:26:48,00:27:48,Slightly drowsy
+17,,00:27:48,00:28:48,Slightly drowsy
+17,,00:28:48,00:29:48,Slightly drowsy
+17,,00:29:48,00:30:48,Slightly drowsy
+21,,00:00:40,00:01:40,Not drowsy
+21,,00:01:40,00:02:40,Not drowsy
+21,,00:02:40,00:03:40,Not drowsy
+21,,00:03:40,00:04:40,Not drowsy
+21,,00:04:40,00:05:40,Not drowsy
+21,,00:05:40,00:06:40,Not drowsy
+21,,00:06:40,00:07:40,Not drowsy
+21,,00:07:40,00:08:40,Not drowsy
+21,,00:08:40,00:09:40,Not drowsy
+21,,00:09:40,00:10:40,Not drowsy
+21,,00:10:40,00:11:40,Not drowsy
+21,,00:11:40,00:12:40,Not drowsy
+21,,00:12:40,00:13:40,Not drowsy
+21,,00:13:40,00:14:40,Not drowsy
+21,,00:14:40,00:15:40,Not drowsy
+21,,00:15:40,00:16:40,Slightly drowsy
+21,,00:16:40,00:17:40,Moderately Drowsy
+21,,00:17:40,00:18:40,Moderately Drowsy
+21,,00:18:40,00:19:40,Moderately Drowsy
+21,,00:19:40,00:20:40,Moderately Drowsy
+21,,00:20:40,00:21:40,Moderately Drowsy
+21,,00:21:40,00:22:40,Moderately Drowsy
+21,,00:22:40,00:23:40,Moderately Drowsy
+21,,00:23:40,00:24:40,Moderately Drowsy
+33,,00:00:48,00:01:48,Not Drowsy
+33,,00:01:48,00:02:48,Not Drowsy
+33,,00:02:48,00:03:48,Not Drowsy
+33,,00:03:48,00:04:48,Not Drowsy
+33,,00:04:48,00:05:48,Not Drowsy
+33,,00:05:48,00:06:48,Not Drowsy
+33,,00:06:48,00:07:48,Not Drowsy
+33,,00:07:48,00:08:48,Not Drowsy
+33,,00:08:48,00:09:48,Not Drowsy
+33,,00:09:48,00:10:48,Not Drowsy
+33,,00:10:48,00:11:48,Not Drowsy
+33,,00:11:48,00:12:48,Slightly Drowsy
+33,,00:12:48,00:13:48,Slightly Drowsy
+33,,00:13:48,00:14:48,Slightly Drowsy
+33,,00:14:48,00:15:48,Slightly Drowsy
+33,,00:15:48,00:16:48,Slightly Drowsy
+33,,00:16:48,00:17:48,Moderately Drowsy
+33,,00:17:48,00:18:48,Moderately Drowsy
+33,,00:18:48,00:19:48,Moderately Drowsy
+33,,00:19:48,00:20:48,Moderately Drowsy
+33,,00:20:48,00:21:48,Slightly Drowsy
+33,,00:21:48,00:22:48,Slightly Drowsy
+33,,00:22:48,00:23:48,Slightly Drowsy
+33,,00:23:48,00:24:48,Moderately Drowsy
+33,,00:24:48,00:25:48,Very Drowsy
+33,,00:25:48,00:26:48,Moderately Drowsy
+33,,00:26:48,00:27:48,Very Drowsy
+33,,00:27:48,00:28:48,Moderately Drowsy
+33,,00:28:48,00:29:48,Very Drowsy
+33,,00:29:48,00:30:48,Very Drowsy
+33,,00:30:48,00:31:48,Slightly Drowsy
+33,,00:31:48,00:32:48,Very Drowsy
+33,,00:32:48,00:33:48,Very Drowsy
+33,,00:33:48,00:34:48,Moderately Drowsy
+33,,00:34:48,00:35:48,Moderately Drowsy
+33,,00:35:48,00:36:48,Slightly Drowsy
+33,,00:36:48,00:37:48,Moderately Drowsy
+33,,00:37:48,00:38:48,Moderately Drowsy
+34,,00:00:35,00:01:35,Not Drowsy
+34,,00:01:35,00:02:35,Not Drowsy
+34,,00:02:35,00:03:35,Not Drowsy
+34,,00:03:35,00:04:35,Not Drowsy
+34,,00:04:35,00:05:35,Not Drowsy
+34,,00:05:35,00:06:35,Not Drowsy
+34,,00:06:35,00:07:35,Not Drowsy
+34,,00:07:35,00:08:35,Not Drowsy
+34,,00:08:35,00:09:35,Not Drowsy
+34,,00:09:35,00:10:35,Not Drowsy
+34,,00:10:35,00:11:35,Not Drowsy
+34,,00:11:35,00:12:35,Not Drowsy
+34,,00:12:35,00:13:35,Slightly Drowsy
+34,,00:13:35,00:14:35,Slightly Drowsy
+34,,00:14:35,00:15:35,Slightly Drowsy
+34,,00:15:35,00:16:35,Slightly Drowsy
+34,,00:16:35,00:17:35,Slightly Drowsy
+34,,00:17:35,00:18:35,Slightly Drowsy
+34,,00:18:35,00:19:35,Slightly Drowsy
+34,,00:19:35,00:20:35,Slightly Drowsy
+34,,00:20:35,00:21:35,Slightly Drowsy
+34,,00:21:35,00:22:35,Slightly Drowsy
+34,,00:22:35,00:23:35,Slightly Drowsy
+34,,00:23:35,00:24:35,Slightly Drowsy
+34,,00:24:35,00:25:35,Slightly Drowsy
+34,,00:25:35,00:26:35,Slightly Drowsy
+34,,00:26:35,00:27:35,Slightly Drowsy
+34,,00:27:35,00:28:35,Slightly Drowsy
+34,,00:28:35,00:29:35,Slightly Drowsy
+34,,00:29:35,00:30:35,Slightly Drowsy
+34,,00:30:35,00:31:35,Slightly Drowsy
+34,,00:31:35,00:32:35,Slightly Drowsy
+34,,00:32:35,00:33:35,Slightly Drowsy
+34,,00:33:35,00:34:35,Slightly Drowsy
+34,,00:34:35,00:35:35,Slightly Drowsy
+34,,00:35:35,00:36:35,Slightly Drowsy
+34,,00:36:35,00:37:35,Slightly Drowsy
+34,,00:37:35,00:38:35,Slightly Drowsy
+34,,00:38:35,00:39:35,Slightly Drowsy
+34,,00:39:35,00:40:35,Slightly Drowsy
+34,,00:40:35,00:41:35,Slightly Drowsy
+34,,00:41:35,00:42:35,Slightly Drowsy
+34,,00:42:35,00:43:35,Slightly Drowsy
+34,,00:43:35,00:44:35,Slightly Drowsy
+34,,00:44:35,00:45:35,Moderately Drowsy
+34,,00:45:35,00:46:35,Moderately Drowsy
+35,,00:00:00,00:01:00,Not Drowsy
+35,,00:01:00,00:02:00,Not Drowsy
+35,,00:02:00,00:03:00,Not Drowsy
+35,,00:03:00,00:04:00,Not Drowsy
+35,,00:04:00,00:05:00,Not Drowsy
+35,,00:05:00,00:06:00,Not Drowsy
+35,,00:06:00,00:07:00,Not Drowsy
+35,,00:07:00,00:08:00,Not Drowsy
+35,,00:08:00,00:09:00,Not Drowsy
+35,,00:09:00,00:10:00,Not Drowsy
+35,,00:10:00,00:11:00,Not Drowsy
+35,,00:11:00,00:12:00,Not Drowsy
+35,,00:12:00,00:13:00,Not Drowsy
+35,,00:13:00,00:14:00,Not Drowsy
+35,,00:14:00,00:15:00,Not Drowsy
+35,,00:15:00,00:16:00,Not Drowsy
+35,,00:16:00,00:17:00,Not Drowsy
+35,,00:17:00,00:18:00,Not Drowsy
+35,,00:18:00,00:19:00,Not Drowsy
+35,,00:19:00,00:20:00,Not Drowsy
+35,,00:20:00,00:21:00,Not Drowsy
+35,,00:21:00,00:22:00,Not Drowsy
+35,,00:22:00,00:23:00,Not Drowsy
+35,,00:23:00,00:24:00,Not Drowsy
+35,,00:24:00,00:25:00,Not Drowsy
+35,,00:25:00,00:26:00,Not Drowsy
+35,,00:26:00,00:27:00,Not Drowsy
+35,,00:27:00,00:28:00,Not Drowsy
+35,,00:28:00,00:29:00,Not Drowsy
+35,,00:29:00,00:30:00,Not Drowsy
+35,,00:30:00,00:31:00,Not Drowsy
+35,,00:31:00,00:32:00,Not Drowsy
+35,,00:32:00,00:33:00,Slightly Drowsy
+35,,00:33:00,00:34:00,Slightly Drowsy
+35,,00:34:00,00:35:00,Slightly Drowsy
+35,,00:35:00,00:36:00,Slightly Drowsy
+35,,00:36:00,00:37:00,Slightly Drowsy
+35,,00:37:00,00:38:00,Slightly Drowsy
+35,,00:38:00,00:39:00,Slightly Drowsy
+35,,00:39:00,00:40:00,Slightly Drowsy
+35,,00:40:00,00:41:00,Slightly Drowsy
+35,,00:41:00,00:42:00,Slightly Drowsy
+35,,00:42:00,00:43:00,Moderately Drowsy
+35,,00:43:00,00:44:00,Slightly Drowsy
+35,,00:44:00,00:45:00,Slightly Drowsy
+35,,00:45:00,00:46:00,Slightly Drowsy
+35,,00:46:00,00:47:00,Slightly Drowsy
+35,,00:47:00,00:48:00,Slightly Drowsy
+35,,00:48:00,00:49:00,Slightly Drowsy
+35,,00:49:00,00:50:00,Slightly Drowsy
+35,,00:50:00,00:51:00,Slightly Drowsy
+35,,00:51:00,00:52:00,Slightly Drowsy
+35,,00:52:00,00:53:00,Slightly Drowsy
+35,,00:53:00,00:54:00,Slightly Drowsy
+35,,00:54:00,00:55:00,Slightly Drowsy
+35,,00:55:00,00:56:00,Slightly Drowsy
+35,,00:56:00,00:57:00,Slightly Drowsy
+35,,00:57:00,00:58:00,Slightly Drowsy
+35,,00:58:00,00:59:00,Moderately Drowsy
+35,,00:59:00,01:00:00,Slightly Drowsy
+36,,00:00:44,00:01:44,Not Drowsy
+36,,00:01:44,00:02:44,Not Drowsy
+36,,00:02:44,00:03:44,Not Drowsy
+36,,00:03:44,00:04:44,Not Drowsy
+36,,00:04:44,00:05:44,Not Drowsy
+36,,00:05:44,00:06:44,Not Drowsy
+36,,00:06:44,00:07:44,Not Drowsy
+36,,00:07:44,00:08:44,Not Drowsy
+36,,00:08:44,00:09:44,Not Drowsy
+36,,00:09:44,00:10:44,Not Drowsy
+36,,00:10:44,00:11:44,Not Drowsy
+36,,00:11:44,00:12:44,Not Drowsy
+36,,00:12:44,00:13:44,Not Drowsy
+36,,00:13:44,00:14:44,Not Drowsy
+36,,00:14:44,00:15:44,Not Drowsy
+36,,00:15:44,00:16:44,Not Drowsy
+36,,00:16:44,00:17:44,Not Drowsy
+36,,00:17:44,00:18:44,Slightly Drowsy
+36,,00:18:44,00:19:44,Slightly Drowsy
+36,,00:19:44,00:20:44,Not Drowsy
+36,,00:20:44,00:21:44,Slightly Drowsy
+36,,00:21:44,00:22:44,Slightly Drowsy
+36,,00:22:44,00:23:44,Slightly Drowsy
+36,,00:23:44,00:24:44,Slightly Drowsy
+36,,00:24:44,00:25:44,Slightly Drowsy
+36,,00:25:44,00:26:44,Slightly Drowsy
+36,,00:26:44,00:27:44,Slightly Drowsy
+36,,00:27:44,00:28:44,Slightly Drowsy
+36,,00:28:44,00:29:44,Slightly Drowsy
+36,,00:29:44,00:30:44,Slightly Drowsy
+36,,00:30:44,00:31:44,Slightly Drowsy
+36,,00:31:44,00:32:44,Slightly Drowsy
+36,,00:32:44,00:33:44,Slightly Drowsy
+36,,00:33:44,00:34:44,Moderately Drowsy
+36,,00:34:44,00:35:44,Moderately Drowsy
+36,,00:35:44,00:36:44,Slightly Drowsy
+31,,00:00:07,00:01:07,Not drowsy
+31,,00:01:07,00:02:07,Not drowsy
+31,,00:02:07,00:03:07,Not drowsy
+31,,00:03:07,00:04:07,Not drowsy
+31,,00:04:07,00:05:07,Not drowsy
+31,,00:05:07,00:06:07,Not drowsy
+31,,00:06:07,00:07:07,Not drowsy
+31,,00:07:07,00:08:07,Not drowsy
+31,,00:08:07,00:09:07,Not drowsy
+31,,00:09:07,00:10:07,Slightly drowsy
+31,,00:10:07,00:11:07,Slightly drowsy
+31,,00:11:07,00:12:07,Slightly drowsy
+31,,00:12:07,00:13:07,Slightly drowsy
+31,,00:13:07,00:14:07,Slightly drowsy
+31,,00:14:07,00:15:07,Slightly drowsy
+31,,00:15:07,00:16:07,Slightly drowsy
+31,,00:16:07,00:17:07,Slightly drowsy
+31,,00:17:07,00:18:07,Slightly drowsy
+31,,00:18:07,00:19:07,Slightly drowsy
+31,,00:19:07,00:20:07,Slightly drowsy
+31,,00:20:07,00:21:07,Slightly drowsy
+31,,00:21:07,00:22:07,Slightly drowsy
+31,,00:22:07,00:23:07,Slightly drowsy
+31,,00:23:07,00:24:07,Slightly drowsy
+31,,00:24:07,00:25:07,Slightly drowsy
+31,,00:25:07,00:26:07,Slightly drowsy
+31,,00:26:07,00:27:07,Slightly drowsy
+31,,00:27:07,00:28:07,Slightly drowsy
+31,,00:28:07,00:29:07,Slightly drowsy
+31,,00:29:07,00:30:07,Slightly drowsy
+31,,00:30:07,00:31:07,Slightly drowsy
+31,,00:31:07,00:32:07,Slightly drowsy
+31,,00:32:07,00:33:07,Slightly drowsy
+31,,00:33:07,00:34:07,Slightly drowsy
+31,,00:34:07,00:35:07,Slightly drowsy
+31,,00:35:07,00:36:07,Slightly drowsy
+32,,00:00:39,00:01:39,Not drowsy
+32,,00:01:39,00:02:39,Not drowsy
+32,,00:02:39,00:03:39,Not drowsy
+32,,00:03:39,00:04:39,Not drowsy
+32,,00:04:39,00:05:39,Not drowsy
+32,,00:05:39,00:06:39,Not drowsy
+32,,00:06:39,00:07:39,Not drowsy
+32,,00:07:39,00:08:39,Not drowsy
+32,,00:08:39,00:09:39,Not drowsy
+32,,00:09:39,00:10:39,Not drowsy
+32,,00:10:39,00:11:39,Not drowsy
+32,,00:11:39,00:12:39,Not drowsy
+32,,00:12:39,00:13:39,Not drowsy
+32,,00:13:39,00:14:39,Slightly drowsy
+32,,00:14:39,00:15:39,Slightly drowsy
+32,,00:15:39,00:16:39,Slightly drowsy
+32,,00:16:39,00:17:39,Slightly drowsy
+32,,00:17:39,00:18:39,Slightly drowsy
+32,,00:18:39,00:19:39,Slightly drowsy
+32,,00:19:39,00:20:39,Not drowsy
+32,,00:20:39,00:21:39,Not drowsy
+32,,00:21:39,00:22:39,Not drowsy
+32,,00:22:39,00:23:39,Not drowsy
+32,,00:23:39,00:24:39,Not drowsy
+32,,00:24:39,00:25:39,Slightly drowsy
+32,,00:25:39,00:26:39,Slightly drowsy
+32,,00:26:39,00:27:39,Slightly drowsy
+32,,00:27:39,00:28:39,Slightly drowsy
+32,,00:28:39,00:29:39,Slightly drowsy
+32,,00:29:39,00:30:39,Slightly drowsy
+32,,00:30:39,00:31:39,Moderately drowsy
+29,,00:00:06,00:01:06,Not drowsy
+29,,00:01:06,00:02:06,Not drowsy
+29,,00:02:06,00:03:06,Not drowsy
+29,,00:03:06,00:04:06,Not drowsy
+29,,00:04:06,00:05:06,Not drowsy
+29,,00:05:06,00:06:06,Not drowsy
+29,,00:06:06,00:07:06,Not drowsy
+29,,00:07:06,00:08:06,Not drowsy
+29,,00:08:06,00:09:06,Not drowsy
+29,,00:09:06,00:10:06,Not drowsy
+29,,00:10:06,00:11:06,Not drowsy
+29,,00:11:06,00:12:06,Slightly drowsy
+29,,00:12:06,00:13:06,Slightly drowsy
+29,,00:13:06,00:14:06,Slightly drowsy
+29,,00:14:06,00:15:06,Slightly drowsy
+29,,00:15:06,00:16:06,Moderately drowsy
+29,,00:16:06,00:17:06,Slightly drowsy
+29,,00:17:06,00:18:06,Slightly drowsy
+29,,00:18:06,00:19:06,Slightly drowsy
+29,,00:19:06,00:20:06,Slightly drowsy
+29,,00:20:06,00:21:06,Slightly drowsy
+29,,00:21:06,00:22:06,Slightly drowsy
+29,,00:22:06,00:23:06,Slightly drowsy
+29,,00:23:06,00:24:06,Slightly drowsy
+29,,00:24:06,00:25:06,Slightly drowsy
+29,,00:25:06,00:26:06,Moderately drowsy
+29,,00:26:06,00:27:06,Moderately drowsy
+29,,00:27:06,00:28:06,Moderately drowsy
+29,,00:28:06,00:29:06,Slightly drowsy
+29,,00:29:06,00:30:06,Slightly drowsy
+29,,00:30:06,00:31:06,Slightly drowsy
+29,,00:31:06,00:32:06,Slightly drowsy
+29,,00:32:06,00:33:06,Moderately drowsy
+30,,00:00:14,00:01:14,Not drowsy
+30,,00:01:14,00:02:14,Not drowsy
+30,,00:02:14,00:03:14,Not drowsy
+30,,00:03:14,00:04:14,Not drowsy
+30,,00:04:14,00:05:14,Not drowsy
+30,,00:05:14,00:06:14,Not drowsy
+30,,00:06:14,00:07:14,Not drowsy
+30,,00:07:14,00:08:14,Slightly drowsy
+30,,00:08:14,00:09:14,Slightly drowsy
+30,,00:09:14,00:10:14,Slightly drowsy
+30,,00:10:14,00:11:14,Slightly drowsy
+30,,00:11:14,00:12:14,Slightly drowsy
+30,,00:12:14,00:13:14,Slightly drowsy
+30,,00:13:14,00:14:14,Slightly drowsy
+30,,00:14:14,00:15:14,Slightly drowsy
+30,,00:15:14,00:16:14,Slightly drowsy
+30,,00:16:14,00:17:14,Slightly drowsy
+30,,00:17:14,00:18:14,Slightly drowsy
+30,,00:18:14,00:19:14,Slightly drowsy
+30,,00:19:14,00:20:14,Slightly drowsy
+30,,00:20:14,00:21:14,Slightly drowsy
+30,,00:21:14,00:22:14,Slightly drowsy
+30,,00:22:14,00:23:14,Moderately drowsy
+30,,00:23:14,00:24:14,Moderately drowsy
+30,,00:24:14,00:25:14,Moderately drowsy
+30,,00:25:14,00:26:14,Slightly drowsy
+30,,00:26:14,00:27:14,Slightly drowsy
+30,,00:27:14,00:28:14,Moderately drowsy
+30,,00:28:14,00:29:14,Moderately drowsy
+30,,00:29:14,00:30:14,Moderately drowsy
+30,,00:30:14,00:31:14,Slightly drowsy
+30,,00:31:14,00:32:14,Slightly drowsy
