@@ -6,6 +6,7 @@ S1_S2_Data/
 .Rhistory
 .venv/
 .venv311/
+external
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
